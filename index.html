@@ -3,45 +3,165 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Personal Space</title>
+    <title>Survival Handbook</title>
     <style>
+        /* Basic color variables for easy editing */
+        :root {
+            --bg-color: #f4f4f9;
+            --text-color: #333;
+            --sidebar-bg: #e2e2e8;
+            --accent: #2c3e50;
+        }
+
         body {
-            font-family: sans-serif;
+            margin: 0;
+            font-family: system-ui, -apple-system, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        /* Top header */
+        header {
+            background-color: var(--accent);
+            color: white;
+            padding: 1.5rem 2rem;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0 0 0.5rem 0;
+        }
+
+        header p {
+            margin: 0;
+            opacity: 0.8;
+        }
+
+        /* Main layout grid */
+        .container {
+            display: flex;
+            flex: 1;
+            flex-direction: row;
+        }
+
+        /* Left Navigation Sidebar */
+        nav.sidebar {
+            width: 250px;
+            background-color: var(--sidebar-bg);
+            padding: 1.5rem;
+            box-sizing: border-box;
+            border-right: 1px solid #ccc;
+        }
+
+        nav.sidebar h3 {
+            margin-top: 0;
+            border-bottom: 2px solid var(--accent);
+            padding-bottom: 0.5rem;
+        }
+
+        nav.sidebar ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        nav.sidebar li {
+            margin-bottom: 0.8rem;
+        }
+
+        nav.sidebar a {
+            text-decoration: none;
+            color: var(--text-color);
+            font-weight: 500;
+        }
+
+        nav.sidebar a:hover {
+            color: var(--accent);
+            text-decoration: underline;
+        }
+
+        /* Right Reading Area */
+        main.content {
+            flex: 1;
+            padding: 2rem 3rem;
+            max-width: 800px;
             line-height: 1.6;
-            max-width: 600px;
-            margin: 40px auto;
-            padding: 0 20px;
-            color: #333;
         }
-        h1 {
-            color: #111;
-            border-bottom: 2px solid #eee;
-            padding-bottom: 10px;
+
+        main.content h2 {
+            color: var(--accent);
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 0.3rem;
         }
-        .footer {
-            margin-top: 50px;
-            font-size: 0.8em;
-            color: #666;
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 1.5rem;
+            background-color: #ddd;
+            font-size: 0.85rem;
+            color: #555;
+        }
+
+        /* Mobile adjustments: Stacks the sidebar above the content on small screens */
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+            nav.sidebar {
+                width: 100%;
+                border-right: none;
+                border-bottom: 1px solid #ccc;
+            }
+            main.content {
+                padding: 1.5rem;
+            }
         }
     </style>
 </head>
 <body>
 
-    <h1>Welcome to My Website</h1>
-    <p>This page is successfully running on Codeberg Pages!</p>
-    
-    <h2>About Me</h2>
-    <p>Write a little bit about yourself, your projects, or your research here.</p>
+    <header>
+        <h1>Survival Handbook</h1>
+        <p>Essential knowledge, accessible anywhere.</p>
+    </header>
 
-    <h2>Latest Notes</h2>
-    <ul>
-        <li><a href="#">First log entry</a> - Coming soon!</li>
-        <li><a href="#">Project overview</a> - What I am working on.</li>
-    </ul>
+    <div class="container">
+        <nav class="sidebar">
+            <h3>Contents</h3>
+            <ul>
+                <li><a href="#introduction">Introduction</a></li>
+                <li><a href="#water">1. Sourcing Water</a></li>
+                <li><a href="#shelter">2. Building Shelter</a></li>
+                <li><a href="#fire">3. Starting a Fire</a></li>
+                <li><a href="#foraging">4. Foraging & Food</a></li>
+            </ul>
+        </nav>
 
-    <div class="footer">
-        <p>Powered by Codeberg Pages</p>
+        <main class="content">
+            <section id="introduction">
+                <h2>Introduction</h2>
+                <p>Welcome to the survival handbook. This guide is built to be lightweight, fast, and easily accessible even when you are offline or on a slow connection.</p>
+            </section>
+
+            <section id="water">
+                <h2>1. Sourcing Water</h2>
+                <p>Water is your most critical resource. In this section, we cover filtering, boiling, and locating natural water sources safely.</p>
+                </section>
+
+            <section id="shelter">
+                <h2>2. Building Shelter</h2>
+                <p>Protecting yourself from the elements is paramount. We will look at A-frames, lean-tos, and utilizing natural terrain.</p>
+                </section>
+        </main>
     </div>
+
+    <footer>
+        <p>&copy; 2026. Licensed under CC BY-NC-SA 4.0 (Creative Commons Non-Commercial Share-Alike) to ensure this knowledge remains freely shared among individuals while strictly preventing corporations from using your work for commercial gain.</p>
+    </footer>
 
 </body>
 </html>
