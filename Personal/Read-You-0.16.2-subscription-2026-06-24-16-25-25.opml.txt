@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="2.0">
+  <head>
+    <title>Read You</title>
+    <dateCreated>Wed Jun 24 16:25:46 GMT+05:30 2026</dateCreated>
+  </head>
+  <body>
+    <outline text="Default" title="Default" />
+    <outline text="Organic feed" title="Organic feed">    <outline htmlUrl="https://hitarththummar.xyz/atom.xml" text="ht.xyz" title="ht.xyz" xmlUrl="https://hitarththummar.xyz/atom.xml" />
+    <outline htmlUrl="https://ratfactor.com/atom.xml" text="Ratfactor Feed" title="Ratfactor Feed" xmlUrl="https://ratfactor.com/atom.xml" />
+    <outline htmlUrl="https://stephango.com/feed.xml" text="Steph Ango" title="Steph Ango" xmlUrl="https://stephango.com/feed.xml" />
+    <outline htmlUrl="https://text.tchncs.de/the-dream-diary/feed/" text="The Dream Diary" title="The Dream Diary" xmlUrl="https://text.tchncs.de/the-dream-diary/feed/" />
+    <outline htmlUrl="https://theophinetheodore.xyz/thoughts/index.xml" text="theophine savio theodore." title="theophine savio theodore." xmlUrl="https://theophinetheodore.xyz/thoughts/index.xml" />
+</outline>
+    <outline text="Uncategorized" title="Uncategorized">    <outline htmlUrl="https://github.com/ReadYouApp/ReadYou/releases.atom" text="ReadYou Releases" title="ReadYou Releases" xmlUrl="https://github.com/ReadYouApp/ReadYou/releases.atom" />
+</outline>
+  </body>
+</opml>
