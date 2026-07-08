@@ -3,165 +3,180 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Survival Handbook</title>
+    <title>NomadNet Micron Book Preview</title>
     <style>
-        /* Basic color variables for easy editing */
         :root {
-            --bg-color: #f4f4f9;
-            --text-color: #333;
-            --sidebar-bg: #e2e2e8;
-            --accent: #2c3e50;
+            --bg-color: #0d0f12;
+            --terminal-bg: #15181c;
+            --text-color: #c9d1d9;
+            --accent-color: #58a6ff;
+            --border-color: #30363d;
         }
 
         body {
-            margin: 0;
-            font-family: system-ui, -apple-system, sans-serif;
             background-color: var(--bg-color);
             color: var(--text-color);
+            font-family: 'Courier New', Courier, monospace;
+            margin: 0;
+            padding: 20px;
             display: flex;
-            flex-direction: column;
+            justify-content: center;
+            align-items: center;
             min-height: 100vh;
         }
 
-        /* Top header */
-        header {
-            background-color: var(--accent);
-            color: white;
-            padding: 1.5rem 2rem;
-            text-align: center;
+        .terminal-container {
+            width: 100%;
+            max-width: 680px;
+            background-color: var(--terminal-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            overflow: hidden;
         }
 
-        header h1 {
-            margin: 0 0 0.5rem 0;
-        }
-
-        header p {
-            margin: 0;
-            opacity: 0.8;
-        }
-
-        /* Main layout grid */
-        .container {
+        .terminal-header {
+            background-color: #1f242c;
+            padding: 10px 15px;
+            border-bottom: 1px solid var(--border-color);
             display: flex;
-            flex: 1;
-            flex-direction: row;
+            align-items: center;
+            gap: 8px;
         }
 
-        /* Left Navigation Sidebar */
-        nav.sidebar {
-            width: 250px;
-            background-color: var(--sidebar-bg);
-            padding: 1.5rem;
-            box-sizing: border-box;
-            border-right: 1px solid #ccc;
+        .dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            display: inline-block;
         }
+        .dot-red { background-color: #ff5f56; }
+        .dot-yellow { background-color: #ffbd2e; }
+        .dot-green { background-color: #27c93f; }
 
-        nav.sidebar h3 {
-            margin-top: 0;
-            border-bottom: 2px solid var(--accent);
-            padding-bottom: 0.5rem;
-        }
-
-        nav.sidebar ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-
-        nav.sidebar li {
-            margin-bottom: 0.8rem;
-        }
-
-        nav.sidebar a {
-            text-decoration: none;
-            color: var(--text-color);
-            font-weight: 500;
-        }
-
-        nav.sidebar a:hover {
-            color: var(--accent);
-            text-decoration: underline;
-        }
-
-        /* Right Reading Area */
-        main.content {
-            flex: 1;
-            padding: 2rem 3rem;
-            max-width: 800px;
-            line-height: 1.6;
-        }
-
-        main.content h2 {
-            color: var(--accent);
-            border-bottom: 1px solid #ddd;
-            padding-bottom: 0.3rem;
-        }
-
-        /* Footer */
-        footer {
+        .terminal-title {
+            margin-left: 10px;
+            font-size: 13px;
+            color: #8b949e;
+            flex-grow: 1;
             text-align: center;
-            padding: 1.5rem;
-            background-color: #ddd;
-            font-size: 0.85rem;
-            color: #555;
+            font-family: sans-serif;
         }
 
-        /* Mobile adjustments: Stacks the sidebar above the content on small screens */
-        @media (max-width: 768px) {
-            .container {
-                flex-direction: column;
-            }
-            nav.sidebar {
-                width: 100%;
-                border-right: none;
-                border-bottom: 1px solid #ccc;
-            }
-            main.content {
-                padding: 1.5rem;
-            }
+        /* Container for the rendered output */
+        #micron-rendered {
+            padding: 30px 40px;
+            line-height: 1.6;
+            white-space: pre-wrap;
+            font-size: 15px;
+        }
+
+        /* Basic fallback styling for links parsed from micron format */
+        a {
+            color: var(--accent-color);
+            text-decoration: underline;
+            cursor: pointer;
+        }
+        a:hover {
+            color: #79c0ff;
         }
     </style>
 </head>
 <body>
 
-    <header>
-        <h1>Survival Handbook</h1>
-        <p>Essential knowledge, accessible anywhere.</p>
-    </header>
-
-    <div class="container">
-        <nav class="sidebar">
-            <h3>Contents</h3>
-            <ul>
-                <li><a href="#introduction">Introduction</a></li>
-                <li><a href="#water">1. Sourcing Water</a></li>
-                <li><a href="#shelter">2. Building Shelter</a></li>
-                <li><a href="#fire">3. Starting a Fire</a></li>
-                <li><a href="#foraging">4. Foraging & Food</a></li>
-            </ul>
-        </nav>
-
-        <main class="content">
-            <section id="introduction">
-                <h2>Introduction</h2>
-                <p>Welcome to the survival handbook. This guide is built to be lightweight, fast, and easily accessible even when you are offline or on a slow connection.</p>
-            </section>
-
-            <section id="water">
-                <h2>1. Sourcing Water</h2>
-                <p>Water is your most critical resource. In this section, we cover filtering, boiling, and locating natural water sources safely.</p>
-                </section>
-
-            <section id="shelter">
-                <h2>2. Building Shelter</h2>
-                <p>Protecting yourself from the elements is paramount. We will look at A-frames, lean-tos, and utilizing natural terrain.</p>
-                </section>
-        </main>
+<div class="terminal-container">
+    <div class="terminal-header">
+        <span class="dot dot-red"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-green"></span>
+        <div class="terminal-title">nomadnet://book-preview.mu</div>
     </div>
+    
+    <!-- This is where your book will display -->
+    <div id="micron-rendered"></div>
+</div>
 
-    <footer>
-        <p>&copy; 2026. Licensed under CC BY-NC-SA 4.0 (Creative Commons Non-Commercial Share-Alike) to ensure this knowledge remains freely shared among individuals while strictly preventing corporations from using your work for commercial gain.</p>
-    </footer>
+<script>
+    // 1. Paste your raw Micron Book Code inside these backticks
+    const micronCode = `[w:65]
+|c
+*[b:000,f:fff]  CHAPTER I: THE OLD MESH  *
+
+|c
+_An Introduction to Free Networking_
+
+[]
+[]
+|j
+It was a cold, quiet night when the first packet made its way across the valley. The nodes, scattered like tiny digital campfires across the ridge lines, had spent weeks in complete isolation. 
+
+[]
+For years, the old infrastructure had been failing. The cables beneath the streets were dark, and the central towers stood silent. But on this night, a single LoRa transceiver blinked to life on a 12-volt battery. 
+
+[]
+> "The network wasn't built by a corporation. It was patched together by anyone who had an old radio and a desire to speak across the dark."
+
+[]
+|j
+The text unrolled across the terminal screen slowly, matching the agonizingly beautiful pace of a 300 baud connection. Each character felt intentional. In a world that had forgotten how to wait, the mesh forced a patient, deliberate focus.
+
+[]
+[]
+|c
+Download the complete package:
+[h:https://yourcodebergsite.com/book.epub|📥 Download EPUB Book]
+
+[]
+|c
+* * *`;
+
+    // 2. A lightweight JS browser interpreter to parse the core formatting tags
+    function parseMicronToHtml(text) {
+        let lines = text.split('\n');
+        let htmlOutput = "";
+        let currentAlignment = "left"; // default
+
+        lines.forEach(line => {
+            let trimmed = line.trim();
+
+            // Handle alignment shifts
+            if (trimmed === "|c") { currentAlignment = "center"; return; }
+            if (trimmed === "|j") { currentAlignment = "justify"; return; }
+            if (trimmed === "|l") { currentAlignment = "left"; return; }
+            if (trimmed === "|r") { currentAlignment = "right"; return; }
+            
+            // Handle width modifiers, horizontal rules, or empty breaks
+            if (line.startsWith("[w:") || trimmed === "---") return;
+            if (trimmed === "[]") {
+                htmlOutput += "<br>";
+                return;
+            }
+
+            let processedLine = line;
+
+            // Simple Bold tag match (*text*)
+            processedLine = processedLine.replace(/\*(.*?)\*/g, '<strong>$1</strong>');
+            
+            // Simple Underline tag match (_text_)
+            processedLine = processedLine.replace(/_(.*?)_/g, '<u>$1</u>');
+
+            // Parse Link / EPUB download format [h:url|label]
+            processedLine = processedLine.replace(/\[h:(.*?)\|(.*?)\]/g, '<a href="$1" target="_blank">$2</a>');
+
+            // Wrap in styled block divs to mirror terminal layout rules
+            if (processedLine.trim() !== "") {
+                htmlOutput += \`<div style="text-align: \${currentAlignment};">\${processedLine}</div>\`;
+            } else {
+                htmlOutput += "<div>&nbsp;</div>";
+            }
+        });
+
+        return htmlOutput;
+    }
+
+    // 3. Inject the parsed content cleanly into the DOM window
+    document.getElementById('micron-rendered').innerHTML = parseMicronToHtml(micronCode);
+</script>
 
 </body>
 </html>
