@@ -1,9 +1,11 @@
-This is my personal guide on day to day survival according to me inspired from survival manual app on fdroid . Its not as intensive as that one but it will definetly help you and me out . 
+This is my personal day-to-day survival guide, inspired by the Survival Manual app on F-Droid. It is not as comprehensive as that app, but it should still be useful to both you and me.
 
-KEEP A COPY OF THIS REPOSITORY OR FILES IN YOUR PERSONAL STORAGE DEVICE 
+KEEP A COPY OF THIS REPOSITORY OR THESE FILES ON YOUR PERSONAL STORAGE DEVICE.
 
-Anything that is written in this does not represent me or my beliefs . It is purely written for survival . It may have stuff which sounds racist , homophobic or sexist etc.. but would you rather read and do that or get killed thats up to you .
+Anything written here does not necessarily represent my personal beliefs or opinions. The content is written from a survival perspective. Some advice may seem racist, sexist, homophobic, or otherwise offensive when taken out of context, but the intention is to prioritize survival rather than social or political views.
 
-Do not report my account and this repository please .
+Please do not report my account or this repository.
 
-If you got some enhancements or find something false . Contact me on one of my accounts in README.md
+If you find any inaccuracies or have suggestions for improvements, contact me through one of the accounts listed in contact.txt .
+
+Everything in this repository is written in plain txt files for greater compatibility 
