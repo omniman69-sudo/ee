@@ -1,0 +1,22 @@
+Jj
+Git
+Lazyjj
+
+Fastfetch
+Micro
+Zellij
+Fish → chsh -s fish
+Openssh
+
+Aria2
+
+Man
+
+Uv - isolated py manager
+
+Helix
+    zig,zls
+    Rust,rust-anslyser
+    Golang,gopls
+ 
+Tur repo 
