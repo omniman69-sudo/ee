@@ -6,6 +6,6 @@ Anything written here does not necessarily represent my personal beliefs or opin
 
 Please do not report my account or this repository.
 
-If you find any inaccuracies or have suggestions for improvements, contact me through one of the accounts listed in contact.txt .
+If you find any inaccuracies or have suggestions for improvements, contact me through one of the accounts listed in `contact.txt`.
 
-Everything in this repository is written in plain txt files for greater compatibility 
+Everything in this repository is written in plain `.txt` files for greater compatibility.
