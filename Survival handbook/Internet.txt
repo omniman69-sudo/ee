@@ -1,0 +1,120 @@
+This is a reference file. The reader is expected to search, learn more, and verify the information themselves.
+
+########################################
+RESOURCES
+########################################
+
+== Meta Service Websites ==
+https://private.coffee
+https://catgirl.cloud
+https://disroot.org
+https://tchncs.de
+https://riseup.net
+https://nixnet.services
+https://07f.de
+https://4d2.org
+https://digitalprivacy.diy
+https://pub.solar
+https://envs.net
+https://bladerunn.in
+https://flossboxin.org.in - India
+https://unredacted.org
+https://anarchists.space
+
+== Cool Websites ==
+https://bubbles.town/ - Organic blog aggregator
+https://roadmap.sh/ - Developer stuff
+https://www.oberf.org/sobe_stories.htm - Near-death experiences
+
+########################################
+PIRACY
+########################################
+
+== Books ==
+https://www.reddit.com/r/Piracy/wiki/megathread
+https://mediasavvy.pages.dev
+https://champagne.pages.dev
+https://fmhy.net
+
+> Use a VPN, Tor, or I2P while accessing these sites.
+
+== Private Torrent Trackers ==
+https://hdvinnie.github.io/Private-Trackers-Spreadsheet/
+
+> Use the books/resources above to find public trackers.
+
+== IPTV ==
+https://github.com/iptv-org/awesome-iptv
+https://iptv-org.github.io/
+https://github.com/iptv-org
+
+== Clients (Web Only) ==
+https://libredirect.github.io/ - Redirects almost every centralized website
+https://lucida.to - Music download
+
+> Use Firefox + uBlock Origin while accessing these sites. If clients cannot be found for centralized platforms like Reddit, use Firefox + uBlock Origin instead.
+> Many more clients are available through the Meta Service and Books links above.
+
+########################################
+BEST OFF-GRID
+########################################
+
+Reticulum
+- Networking protocol.
+- Other services like torrents and websites have been ported to it.
+
+Yggdrasil
+- Mesh networking protocol.
+- Does not provide anonymity by itself.
+- Can be used together with Reticulum, I2P, etc.
+
+########################################
+BEST ON-GRID / INTERNET
+########################################
+
+Tor
+- Anonymity network.
+
+I2P
+- Anonymous network with built-in torrent support.
+
+SimpleX
+Briar
+
+Bitwarden
+KeePass
+
+Nostr
+- Bypass censorship.
+
+Matrix
+XMPP
+ActivityPub
+- WhatsApp alternatives.
+
+BitTorrent
+- Torrenting over the clearnet, usually with a VPN.
+
+RSS
+- One-way content subscription.
+
+Organic Maps (OpenStreetMap)
+- Offline maps.
+
+########################################
+TECH TIPS
+########################################
+
+- Never use Bluetooth in an insecure environment, or just never use it. Bluetooth has had vulnerabilities and probably will continue to have them. Especially do not use it during protests.
+
+- In situations like protests, use privacy-focused protocols like the ones listed above. Avoid using the cellular network whenever possible, keep your device on Airplane Mode, and a Faraday bag is even better.
+
+- When sending nudes, hide your face and cover your hands to avoid fingerprints. Also avoid showing anything that can identify you.
+
+- If you have ever given your fingerprint, iris scan, face scan (AI can reconstruct facial features with enough images), or any other biometric for legal documents, exams, or anywhere else, never use biometrics to unlock your devices, especially your password manager. Use a hardware security key instead whenever possible.
+
+- Always buy devices whose bootloader can be unlocked easily and use Linux.
+
+- Keep backups of everything, and I mean EVERYTHING, locally. Never trust cloud storage. Encrypt everything on your device before storing it anywhere.
+
+- Use Firefox + uBlock Origin. Learn about it and also look into data and ad poisoning extensions/apps.
