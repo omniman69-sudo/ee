@@ -26,6 +26,16 @@ https://bubbles.town/ - Organic blog aggregator
 https://roadmap.sh/ - Developer stuff
 https://www.oberf.org/sobe_stories.htm - Near-death experiences
 
+== Search Engines ==
+SearXNG 
+- Meta search engine.
+
+LibreX
+- Lightweight privacy-friendly frontend for multiple search engines.
+
+Whoogle
+- Self-hosted Google Search frontend without ads or tracking.
+
 ########################################
 PIRACY
 ########################################
