@@ -61,6 +61,7 @@ https://github.com/iptv-org
 == Clients (Web Only) ==
 https://libredirect.github.io/ - Redirects almost every centralized website
 https://lucida.to - Music download
+https://github.com/No-Suggest/NoSuggest - Yt client
 
 > Use Firefox + uBlock Origin while accessing these sites. If clients cannot be found for centralized platforms like Reddit, use Firefox + uBlock Origin instead.
 > Many more clients are available through the Meta Service and Books links above.
@@ -128,3 +129,7 @@ TECH TIPS
 - Keep backups of everything, and I mean EVERYTHING, locally. Never trust cloud storage. Encrypt everything on your device before storing it anywhere.
 
 - Use Firefox + uBlock Origin. Learn about it and also look into data and ad poisoning extensions/apps.
+
+- Never share controversial opinions, political views, or sensitive content without anonymity or encryption. On platforms like Instagram or Reddit, you could end up with legal trouble depending on where you live, or become the target of harassment because your OPSEC sucks.
+
+- Always use a VPN while torrenting. Keep your OPSEC good. Even if others are bad at enforcing things, it only takes one mistake for someone to make your life a lot harder.
