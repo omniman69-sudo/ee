@@ -1,0 +1,1209 @@
+{
+	"username": "agent",
+	"has_pass": false,
+	"email": "\ufffd\ufffdIT\u0013^\ufffd\ufffdFw\ufffd\u001di\u00109\u001b\ufffd\ufffdL\ufffde\ufffd\ufffd\ufffdm\ufffd\ufffdz\ufffd7\u0015\ufffd\ufffdL^\ufffd|\u0015\ufffd\ufffd\u000eC\ufffd\ufffd9\ufffd\ufffdp\ufffd\ufffd=j]\ufffd\ufffdLp",
+	"created": "2025-08-27T10:25:36Z",
+	"status": 0,
+	"collections": [
+		{
+			"alias": "agent",
+			"title": "a",
+			"description": "In this space, I will write stories, personal stuff, and tech related things. Use tags to find whatever you want to read.",
+			"style_sheet": "/* Fosstodon Hub theme written by Kev Quirk (https://kevq.uk) and released under the GPL v3 license (https://www.gnu.org/licenses/gpl-3.0.en.html). */\r\n\r\n/* Create colour variables to be used throughout the theme (makes colours easier to change globally). */\r\n:root {\r\n    --main: #2b90d9;\r\n    --light: #9baec8;\r\n    --lighter: #d9e1e8;\r\n    --dark: #1f232b;\r\n    --accent: #282c37;\r\n}\r\n\r\n\r\n/* ----------BODY ITEMS---------- */\r\nbody {\r\n    background-color: var(--dark);\r\n    color: var(--light);\r\n}\r\n\r\nbody h1 a, body header h2 a {\r\n    color: var(--lighter);\r\n}\r\n\r\nbody h1 a:hover, body header h2 a:hover {\r\n    color: var(--light);\r\n}\r\n\r\nbody#post article h2, body#post article h3, body#post article h4, body#post article h5 {\r\n    color: var(--lighter);\r\n}\r\nbody footer nav {\r\n    color: var(--light);\r\n}\r\n\r\nbody #post footer nav a, body#collection footer nav a, body#post footer nav a, body#subpage footer nav a {\r\n    margin-top: 0;\r\n    color: var(--lighter);\r\n}\r\n\r\nbody #post code, body#collection code, body#post code, body#subpage code {\r\n    background-color: var(--light);\r\n    border: 1px solid var(--light);\r\n    color: var(--dark);\r\n    padding: .2em .4em;\r\n    font-size: .86em;\r\n    -webkit-border-radius: .25em;\r\n    -moz-border-radius: .25em;\r\n    border-radius: .25em;\r\n}\r\n\r\nbody#collection a.read-more, body#subpage a.read-more {\r\n    color: var(--lighter);\r\n}\r\n/* ----------END BODY ITEMS---------- */\r\n\r\n\r\n/* ----------NAVIGATION \u0026 LINKS---------- */\r\na {\r\n    color: var(--main);\r\n}\r\n\r\na.user.hidden.pin.action, a.user.hidden.delete.action, a.user.hidden.action {\r\n    color: var(--light);\r\n}\r\n\r\na.pinned {\r\n    color: var(--lighter);\r\n}\r\n\r\na.btn.cta, a.btn.submit, a.btn[type=\"submit\"], button.cta, button.submit, button[type=\"submit\"], input.cta, input.submit, input[type=\"submit\"], select.inputform.cta, select.inputform.submit, select.inputform[type=\"submit\"], textarea.inputform.cta, textarea.inputform.submit, textarea.inputform[type=\"submit\"] {\r\n    border: 1px solid var(--light);\r\n    background: var(--light);\r\n    color: var(--dark);\r\n}\r\n\r\na.btn.cta:hover, a.btn.submit:hover, a.btn[type=\"submit\"]:hover, button.cta:hover, button.submit:hover, button[type=\"submit\"]:hover, input.cta:hover, input.submit:hover, input[type=\"submit\"]:hover, select.inputform.cta:hover, select.inputform.submit:hover, select.inputform[type=\"submit\"]:hover, textarea.inputform.cta:hover, textarea.inputform.submit:hover, textarea.inputform[type=\"submit\"]:hover {\r\n    border: 1px solid var(--lighter);\r\n    background-color: var(--lighter);\r\n    text-decoration: none;\r\n}\r\n\r\n.post-title a:link, .post-title a:visited {\r\n    color: var(--lighter);\r\n}\r\n\r\n#post nav a:not(.home), header nav a {\r\n    color: var(--light);\r\n}\r\n\r\nnav#manage ul a {\r\n    display: block;\r\n    color: var(--lighter);\r\n    background-color: var(--accent);\r\n    padding: 0 .5em;\r\n    margin: 0;\r\n}\r\n\r\nnav#manage ul a:hover {\r\n    color: var(--light);\r\n}\r\n\r\nnav#manage ul ul {\r\n    background: var(--accent);\r\n}\r\n/* ----------END NAVIGATION \u0026 LINKS---------- */\r\n\r\n\r\n/* ----------HEADERS---------- */\r\n\r\n#official-writing h2, #official-writing h3, #official-writing h4, #wrapper h2, #wrapper h3, #wrapper h4 {\r\n    color: var(--lighter);\r\n}\r\n\r\nheader p.description {\r\n    color: var(--light);\r\n}\r\n/* ----------END HEADERS---------- */\r\n\r\n\r\n/* ----------TABLES---------- */\r\nth {\r\n    background: var(--main);\r\n    color: var(--dark);\r\n    padding-left: 10px;\r\n    padding-right: 10px;\r\n}\r\ntd {\r\n    border: solid 1px var(--accent);\r\n    padding-left: 10px;\r\n    padding-right: 10px;\r\n}\r\n/* ----------END TABLES---------- */\r\n",
+			"public": true,
+			"views": 131,
+			"url": "https://text.tchncs.de/agent/",
+			"verification_link": "",
+			"total_posts": 0,
+			"posts": [
+				{
+					"id": "3nycafier7",
+					"slug": "readme",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-15T19:25:18Z",
+					"updated": "2026-05-15T19:25:18Z",
+					"title": "README",
+					"body": "https://github.com/69676967/Community-service-list/blob/main/Blog%20stuff/Tags%20and%20Research%20for%20blogs.txt",
+					"tags": [],
+					"paid": false,
+					"views": 57,
+					"likes": 0
+				}
+			],
+			"Format": null
+		},
+		{
+			"alias": "the-dream-diary",
+			"title": "Agent.69 Anything Diary",
+			"description": "This used to be my dream diary,now I write anything here to free up some space in my brain.Use TAGS to group Blogs. #personal will be for life related stuff",
+			"style_sheet": "/* \r\n   Written in 2020 by Write.as\r\n\r\n   To the extent possible under law, the author(s) have dedicated all \r\n   copyright and related and neighboring rights to this software to the \r\n   public domain worldwide. This software is distributed without any \r\n   warranty.\r\n\r\n   You should have received a copy of the CC0 Public Domain Dedication \r\n   along with this software. If not, see \r\n   http://creativecommons.org/publicdomain/zero/1.0\r\n*/\r\n\r\nbody {\r\n\t\t color: #eee;\r\n\t\t background: #111;\r\n\t}\r\n\t\r\nbody .post-title a:link, a:visited {\r\n\t\t color: #ccc;\r\n\t}\r\n\t\r\n#collection .post-title a {\r\n               color: #ccc;\r\n}\r\n\t\r\n#collection {\r\n\t\t color: #eee;\r\n\t}\r\n\t\r\n#collection pre {\r\n\t\t background: #060606;\r\n\t}\r\n\r\nbody h1 a, body header h2 a {\r\n\t\t color: #cfcfcf;\r\n\t}\r\n\t\r\nbody h1 a:hover, body header h2 a:hover {\r\n\t\t color: #fff;\r\n\t}\r\n\t\r\nbody h1 a:visited, body header h2 a:visited {\r\n\t\t color: #ccc;\r\n\t}\r\n\t\r\nbody #manage ul a, body .dropdown-nav ul a, body #manage ul ul a, body #manage ul a {\r\n\t\t color: #ccc;\r\n\t}\r\n\t \r\nbody .dropdown-nav ul ul, body .dropdown-nav ul li:hover, body #manage ul ul, body #manage ul ul li:hover, body #manage ul li:hover {\r\n\t\t background: #222;\r\n\t}\r\n\r\nbody #official-writing h2, body #official-writing h3, body #official-writing h4, body #wrapper h2, body #wrapper h3, body #wrapper h4 {\r\n\t\t color: #ddd;\r\n\t}\r\n\t\r\nbody a {\r\n\t\t color: #a2a2ff;\r\n\t}\r\n\t\r\nbody a:visited {\r\n\t\t color: #c98afd;\r\n\t}\r\n\t\r\nbody #official-writing h2, body #official-writing h3, body #official-writing h4, body #wrapper h2, body #wrapper h3, body #wrapper h4 {\r\n\t\t color: #aaa;\r\n\t}\r\n\t\r\nbody #official-writing ul.collections li.collection a.title:link, body #official-writing ul.collections li.collection a.title:visited, body #wrapper ul.collections li.collection a.title:link, body #wrapper ul.collections li.collection a.title:visited {\r\n\t\t color: #cfcfcf;\r\n\t}\r\n\t \r\nbody #official-writing ul.collections li a.create, body #wrapper ul.collections li a.create {\r\n\t\t color: #aaa;\r\n\t}\r\n\t \r\nbody#me #official-writing h2 a:link, body#me #official-writing h2 a:visited {\r\n\t\t color: #a2a2ff;\r\n\t}\r\n\t \r\n\r\ninput {\r\n\t\t background: #202020;\r\n\t\t color: #bbb;\r\n\t}\r\n\t\r\n#manage ul ul li img {\r\n\t\t filter: invert(1);\r\n\t}\r\n\t\r\n#post code, #collection code, #subpage code {\r\n                 background: #202020;\r\n\t\t color: #bbb;\r\n    }\r\n",
+			"public": true,
+			"views": 2054,
+			"url": "https://text.tchncs.de/the-dream-diary/",
+			"verification_link": "",
+			"total_posts": 64,
+			"posts": [
+				{
+					"id": "q0g3wz5ptt",
+					"slug": "walk-home",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-07-23T01:57:45Z",
+					"updated": "2026-07-23T01:57:45Z",
+					"title": "Walk Home",
+					"body": "I don't really look up at the sky, but while I was coming from college, a light cold wind was touching my face. It was perfect.\n\nThe environment had the right amount of heat, cold, and humidity. It felt refreshing, but when I looked up at the sky, the whole sky was filled with wires, long and thick, especially the ones which are cut and just hanging on other wires while coming on my face. It's irritating. Not only that, a lot of trees are also completely covered in wires.\n\nIt completely ruined my fucking day.\n\nThese society fuckers have also had 3 cameras attached to a short pole, creating even more mess.\n\nI always wondered who is in charge of these cameras because one is right outside of a school.\nThe scope of those cameras being used for bad stuff will not make me shocked.\n\nI have also noticed another thing. In my area, everyone uses a motor to pull water, and every time someone gets a new motor installed, that building gets raided and they try their hardest to pull at least 1 motor out of the cage.\n\nWhen mine was stolen for the first time, it burned me from inside.\n\nA lot of killing happened in front of my eyes. I just wanted to find that guy or that group of motor mafias, but then my father stole electricity when I was a kid, soo how can I counter it in my mind?\n\nI think I need to be like those people who have no right and wrong. If it works for me, everyone can go and fuck themselves.\n\nI have a bad habit of putting myself in people's shoes all the time.\n\nI should do it less, but it's automatic.\n\n#personal #life",
+					"tags": [
+						"life",
+						"personal"
+					],
+					"paid": false,
+					"views": 1,
+					"likes": 0
+				},
+				{
+					"id": "ibqmypb1jw",
+					"slug": "ideal-woman",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-07-23T01:55:11Z",
+					"updated": "2026-07-23T01:55:11Z",
+					"title": "Ideal Woman",
+					"body": "Many people asked me in school and college what kind of woman I want to live my entire life with, but I always answer that generic answer that they all want to hear.\n\nI think the woman I want is not to have all the traits and that ragebait that my mom or any Indian woman generally has.\n\nUnlike that good-looking woman with no personality and whose entire personality is either the internet or famous stuff, I want the person to have their own thoughts and opinions, even if they contradict me, and let me listen and listen to me. Also take actions without me and at least know how to fucking protect herself.\n\nThen normal stuff like should not cheat on me, and if she does, just tell me so I can leave her and don't waste my and her time. Don't be annoying, wild sex, have knowledge on stuff, can identify who is how, also don't get manipulated easily, etc... etc... stuff. It's a never-ending desire.\n\nIf I look at what kind of body I want, then it should be normal, not fatty, not pencil-like, just stable, with boobs according to the body type.\n\nIdk if women's butts are fluffy as they show in media, but if they are then add that also.\n\nHer body odour in sweat should not be very thick or smelly. A normal one is tolerable.\n\nOverall a simple breedable body with a simple face at least, and of course should not be blacker than me and shorter than me so I can fit in society.\n\nI have seen people cheat a lot. To prevent it happening to me, although it's inevitable because when dopamine gets you, it really gets you. Then there is no right or wrong, it's just the heat of the moment. But the most I can do to increase the probability of it not happening is not date all the women who are in:\n\n- Acting or any other field related to it because they are surrounded by these plastic surgery beautiful people and good bodies, plus they do kissing and sex scenes for videos.\n- Nurse and hostess because people on the internet said so, and hostesses are surrounded by rich people.\n- Athlete, same reason as actors, surrounded by good bodies.\n- And others depending on the situation.\n\nIf she is from a rich family, that's a plus for me or any other good stuff.\n\nOverall, if I don't get any of this and I like her personality, she does not cheat, and is not from any of these professions, I think I can love her. Also, it would be better if her blood group is not the same as mine, or is the one I have so that I can donate her blood in case of an emergency. And she should not have any lame ass allergy like milk or nuts, etc.\n\nIf I don't get that feeling of love, I think I might cheat on her, but unlike other people I will tell her on the face. Also, all of this stuff only applies till I turn 30 because after 30 it will be about survival and not love. Just get the kids asap and get done with all of this. Of course there will be that itch for that sweet chemical reaction, but seeing how AI girlfriends are there, I think I can kind of make my own or get something else to work with.\n\n#personal #intimate",
+					"tags": [
+						"intimate",
+						"personal"
+					],
+					"paid": false,
+					"views": 2,
+					"likes": 0
+				},
+				{
+					"id": "v117ok48cg",
+					"slug": "dreams",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-07-23T01:51:16Z",
+					"updated": "2026-07-23T01:51:16Z",
+					"title": "Dreams",
+					"body": "Dreams, they always fascinated me as the things I could not, not even dare to think I could do that in my dreams.\n\nI could feel things like touching a woman's skin or vagina, butt, hair, boobs, or the back of her body, which I never did.\nIt feels very real.\n\nThe whole story I make just to get some puss is soo perfect, feels like a movie.\n\nBut then, like good stuff, there is bad as well. Sometimes it's soo bad I can feel my heartbeat and sometimes just don't want to sleep.\n\nPeople say dreams are us in an alternative universe, but I say it's like a TV, but for primitive humans. Like for practicing, seeing scary stuff or, when horny, seeing sex stuff.\n\nI think that's all it is, and the reason people stop getting dreams is because they watch a lot of this stuff in real life. Their mind has nothing helpful left to play.\n\nI started writing a dream blog, I think from 2025 or half of 2024. It has been pretty great. The more I write, the more dreams I saw and remembered.\n\nFuck, seems like the file in which I wrote observations of dreams has been lost. This blog is fucked.\n\n#personal #weird",
+					"tags": [
+						"personal",
+						"weird"
+					],
+					"paid": false,
+					"views": 2,
+					"likes": 0
+				},
+				{
+					"id": "p24vs08xuf",
+					"slug": "random-thoughts",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-07-23T01:47:30Z",
+					"updated": "2026-07-23T01:47:30Z",
+					"title": "Random Thoughts",
+					"body": "Random thoughts.\nIf a gay guy puts his dih in a lesbian woman's vih, does that sex be called gabian sex or straight sex?\n\nIf every gay guy put their dih in other gay guys' hih, it would make a perfect circlefuck, like a circle jerk lol.\n\nPeople say love yourself, aka self-love. Does that mean putting my own dih in my bih hole? Like what?\n\nDick was made out of vaginas. Does that mean if I put my dih in a woman's vih, that would be lesbian sex?\n\nHow do lesbians fuck each other? Like 2 scissors horizontally and vertically with full force, colliding with each other and wiggling each other's lowr lips.\n\nAnd for gays, instead of putting their dih in bih, how about putting their dih in the other guy's pink popsicle diamond hih and doing vice versa, but very fast, eventually creating a fire dih due to friction.\n\nI am not sorry for thinking all of this, but I have a creative mind. Don't come on my account bashing me.\n\nOk, I am sorry.\n\nCome on – cum on. Hahahahahh.\nI am gooona come in your house and come in your house.\n\nI like creating double meaning sentences. Feels funny.\n\nAlso, Furry Janta Party.\nLol, how would that go?\n\n#personal #weird",
+					"tags": [
+						"personal",
+						"weird"
+					],
+					"paid": false,
+					"views": 2,
+					"likes": 0
+				},
+				{
+					"id": "j1sqcmccee",
+					"slug": "diet",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-07-23T01:43:19Z",
+					"updated": "2026-07-23T01:43:19Z",
+					"title": "Diet",
+					"body": "I have just found out that if I drink a lot of milk and sugar, aka tea, my butt hair will smell like that sweet milk powder.\n\nAlthough I hate that sweet smell and just stopped consuming sugar altogether, I realised how my diet can affect my smell.\n\nI gotta eat more chocolate. Women lovee chocolate boys.\n\n#personal #life",
+					"tags": [
+						"personal",
+						"life"
+					],
+					"paid": false,
+					"views": 2,
+					"likes": 0
+				},
+				{
+					"id": "0m9xb8ifag",
+					"slug": "falling-in-love-with-an-illusion",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-06-22T23:18:27Z",
+					"updated": "2026-06-22T23:18:27Z",
+					"title": "Falling In Love With An Illusion",
+					"body": "Movies and TV shows and cartoons, I watched them all from a very young age. When I was a child, the real-life situations were not so good, but these stuff let me live in my imagination away from all the problems I had. These stuff made me feel different kinds of emotions and explore my own fantasy while popping, of course.\nSo although it is very cringe to admit and feels like a psycho, I became addicted to these a lot. The only thing after this was a lot of sugar in lemonade.\n\nBut this imagination never stopped. All the stuff from these media started to come in my dreams. I used to make relationships with all of these characters. I knew that they made them like this so we would like them, but like an addict, I fell for the pit hole, and then I grew and got on social media. At this point, that addiction was gone mainly because I was into these tech stuff and YouTube, and life kind of started to be normal. I saw beautiful women around me. That is another point, that women started to come in my dreams, and we usually had sex, and I made whole relationships with them with breakup and feeling this heavy feel in my right chest area. I cried. I did a whole lot of shit, while they never knew that I did this.\nFuck.\n\nBut then one day a person (not going to name, it can be anyone btw) was watching this F.R.I.E.N.D.S show. I never watched English stuff before without Hindi dubbing. So I listened to it. At that time, my English was kind of shit, but I was understanding some sentences, and the accent was pretty weird. From that day, because I was the tech guy, I drank the whole internet and got to know about torrent, trackers, r/piracy megathread, sflix, etc., etc., and I watched almost everything I liked. I did not like Friends, btw. In the process, my English got good, but the downsides were more severe.\n\nI started to do that thing again, but this time with actresses, not cartoons. It became more severe because now everything that I am thinking is happening in front of my eyes. It became automatic. I was not able to control this imagination of mine, and I felt that burn inside whenever I see posts like this actress’s boyfriend or this and that.\nWith sci-fi stuff, I got deep into the technical stuff and started creating my own stories. It was fun and comforting but hard to break out of, until I saw another crazy one.\n\nNow I have decided that I am only going to watch anime, cartoons, etc. I might watch a movie or something, but I will try my best not to get that addiction back, and I will remind myself that this person can be shit in real life; you never know.\nI would prefer imagining my life with a person whom I have some chance in real life to be with or talk to, then imagining a random woman, a fake persona created to sell movies. I don't want to fall in love with an illusion while she earns money from that image and goes on living her rich , full of sex , party life.\n\n#personal #love\n\n",
+					"tags": [
+						"personal",
+						"love"
+					],
+					"paid": false,
+					"views": 196,
+					"likes": 0
+				},
+				{
+					"id": "2er0ve0a5l",
+					"slug": "i-cant-talk-to-people",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-06-21T23:08:11Z",
+					"updated": "2026-06-21T23:08:11Z",
+					"title": "I Can't Talk To People",
+					"body": "I can’t talk to people, especially women. From the start, I have had this problem. With people whom I think are richer than me or in a better condition than me, my voice automatically goes down, and I start acting like that woman who is around a group of her boyfriends, just staying there in silence, maybe looking at the phone, but I don’t like to use the phone other than in my personal space. I don’t even like to watch pirated movies, just sitting there observing everyone.\n\nAnd with women, if I find the woman beautiful, I stutter talking to them, and then that one guy comes who laughs at my stutter and mimics it. It would be sooo nice if I had the power to stop time. I would just take that guy somewhere and grab his jaw’s teeth by the hands, put one of my legs on his shoulder from behind, and rip his head off.\nAnyways, if the girl is ugly, I usually have no problem talking to them, but if I eventually get attracted to them, then it may create a problem. And I also can’t talk with people of other groups, you know, like in college or other branches.\nI think the problem is them being sooo retarded. All the stuff they talk about is just girls, boobs, sex, or study, or how fucked up the teacher is. I have no common topic to discuss with them. I am in a tech branch, and these retards are just retards and teacher bootlickers. They know nothing. Absolute 0. The one thing that could be common is not there. They have no interest in these stuff, or they have it, but they hide it. But will the whole class hide it? :question mark face:\nI just want to talk.\n\nThere is another problem of people not having personality, specially all of these big-boob beautiful women or those curly-hair performative retards and their groups. These fuckers are literally the definition of an NPC. They have this hierarchy in their group, and on Instagram have some trying to be cringe, funny PFP like, twin, you are not tough, and whatever you put is definitely not cringe and funny.\nFucking fakers.\n\nAnother problem I face is I can’t be open with a person. Whether it’s family or friends, I want to be open. I want to talk about literally anything, totally unhinged, with maybe some cringe terms in between. My stuttering problem is because of this shit. I just don’t know what to say in front of women because I think they are a judge, and I have to give my best performance because I might have a chance to mate with this species, lol. And it happens automatically even if I try not to do it. It’s like my dick whenever it sees a beautiful woman always gets aroused and does not go down, never ever. Typical dick.\n\nSo what I was saying is I can’t talk to people. To make myself talk to people, I have decided that I am going to put out an anonymous advertisement, and people can join me, and either I can listen to them, or they can listen to me, or both. I just hope some girl doesn’t come to my meet, otherwise my imagination sector of the brain will start to work, and I want to be in real life, and it is going to be totally unhinged. Like, be cringe, be political, say literally anything as long as it’s not random noise. I will listen and reply. Plus, there is a privacy layer between us because I would be using a burner account with Proton Meet, Nostr, Matrix, or XMPP. You will never know who I am, which enables me to say unhinged shit as well.\n\n#personal #life",
+					"tags": [
+						"personal",
+						"life"
+					],
+					"paid": false,
+					"views": 186,
+					"likes": 0
+				},
+				{
+					"id": "bpamz02hhl",
+					"slug": "enough",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-06-21T15:18:25Z",
+					"updated": "2026-06-21T15:18:25Z",
+					"title": "Enough",
+					"body": "I don't know how to start this or why tf I am writing this, but I am really, fucking really tired of my fucking life. When I was a baby, I was in my mother’s vagina. That’s what the books and porn taught me, and I remember seeing a light blue light. It was pretty peaceful, but then as I grew up, I started seeing fights between mother and father and both families. My father was a gambler, not the one who bets online on cricket etc., but the one who goes to junk areas. He was also a tobacco or tambaku addict, and used to hide packets of that stuff under the old TV, which used to work after a few slaps, or in lockers, while mother used to have fights with him and I, as usual, quietly sat in the corner watching the whole drama of slaps, father, and specially grandfather throwing their heads on walls and floor, and eventually after a lot of abusive word usage they all cried and hugged and happy ending.\n\nI HATED those hugs. They were always sooo awkward, and all the tears used to make my shirt dirty. Slowly, slowly, over time, stuff from the house started disappearing. Eventually, the TV, that was the only happiness of mine, was also gone, and we also used to steal electricity from the above flat for a few hours till the inverter got recharged and then change it back. It used to make me personally feel pretty humiliated and felt wrong because that above kid was a very close friend of mine. It felt like cheating. Not only this, people used to come to the house asking for money almost every day. Sometimes when I was alone, I used to get very afraid of opening the wood door and confronting the guy. Sometimes my mother used to send me to say no one is at home, come later.\n\nAnyways, in the meantime from 1st to 6th, I changed a lot of schools. My father always wanted me to go to private schools, even though he did not have money for that, not because govt schools are bad at providing education (they are not, btw), but because his reputation would get hurt. He was hoping that I pass the exam that these schools do and I would get a discount on fees, but because I did not have interest in education and I never taught myself at home, I did not pass any of them. On the other hand, he got his money wasted on making me give the exam. Then finally, after a lot of argument, I got into a small unknown govt school, and it was the best school ever of my life. The teachers were very sweet and unlike private school, where I used to be put for hours in a room because my parents did not pay the fee, they never taught anything. This one taught me life lessons, pen fights, a lot of friends, freedom, fun, and for the first time I liked education. I ate the whole science book, and that EVS teacher was the best teacher and woman I ever met. I made 2 very close friends in my rich school and other rich school as well, but I can never compare them to the govt one. Meanwhile, there was a lot of back and forth in house. I used to sometimes live in my father house and sometimes in my mama or my mother’s brother house, while I was quiet most of my life. Although it’s cringe, I developed imaginary people in my head and I just talked to myself a lot, LIKE A LOT. When I was learning, watching TV, bathing, pooping, walking alone, I was just talking to myself, and I loved it. Talking to myself felt like home.\n\nI remember in 1 of the rich schools I by mistake punched a guy at dance class and his nose started to bleed. That was the first time I felt fear. My hands shook for the first time, whole body wet, and I was sooo stressed I started to mumble to myself and talk like crazy. I felt like that homeless guy who I see talking to himself and felt weird. After going to a lot of empty corporate-style rooms and saying the same thing, they finally left me, although afterwards I said sorry to the guy and he said his nose is sensitive and it has happened a lot before. Ngl, I could hear my heartbeat throughout the body and in ears + the heat coming out of body was crazy and that heavy line in throat when you try to stop crying was diabolical. I also had many crushes till 5th, and whenever I was around them it felt like heaven.\n\nNow I am in 6th class in a semi-government school. My parents hopefully are divorced, and I am living with my mother at her brother's house. I grew close to his family, and that was the best time of my fucking life. I grew more close to education and fully invested in it. I also got many good friends there in the area of the house as well as in school. I had crushes on women before, but this time was diff. I felt something diff in me, and I had a lot of crushes in that time. I had a lot of fun in that time also. I did not make any gf, but I finally made a girl friend for the first time, not temporary, permanent. Everything was going perfect. Everything felt smooth. I was praised by teachers. I was 3rd or 4th in my class. From 6th to 8th everything was perfect. When I came in that school for the first time in 6th, I remember it was Sanskrit teacher class and I was asking what has happened till now in sem in the class because of my father I had to leave my previous school mid-way. I was supposed to be in 7th, but because after taking my test the staff there decided to put me in 6th class, and thank god they did it, otherwise I would not have been able to see those baddies. 7th class girls at that time were pretty generic, so I was in the class and she noticed and made me write something on the board, and I did not know that lang of course, so I just stared in her eyes because I was afraid of stages and people looking at me. I was in stress and sweat and out of nowhere a slap came on my cheeks. That slap made my mind on position tbh. If that slap had not been given to me, I would have never studied so focusly. Anyways, I could feel that slap’s heat on the lining of my ears and cheeks. I was on the brink of cry but because everyone and crush was watching, I had to control. Eventually instead of the girl I had crush on in my class, I started to have crush on that ugly bitch full of pimples on the face. I was talking to her whatever I had in my mind and I think that was the reason I chose her, but because I was a fearful person, I never told her that. Also because this got leaked, I had crush on my crush in my entire class that I felt fear and embarrassed. If that ugly girl was not there to talk to, idk what would I have done. I was a very quiet kid in the class. Everyone in my group was pretty innocent, but eventually as the class number went up, so did our innocence go down.\n\nAlso in this time I was watching and learning about coding and hacking through YT on Android. I know it was a shit idea, but it is what it is. Also there were very good teachers that helped me in this journey, like SST, many eng mans, and specially every science and maths one etc... That math one who wore a saari every day was my fav. And I also had a crush on both science teachers.\n\nI can't write anymore. The more I am writing, the more I am remembering all the past stuff. I just don't want to write. I did not even realize I was taking short breaths while writing this. I just don't want to write.\n\nEnough.\n\n#personal #life #organic",
+					"tags": [
+						"personal",
+						"life",
+						"organic"
+					],
+					"paid": false,
+					"views": 171,
+					"likes": 0
+				},
+				{
+					"id": "a9rs9cvsqy",
+					"slug": "network-dreams",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-06-21T13:46:29Z",
+					"updated": "2026-06-21T13:46:29Z",
+					"title": "Network Dreams",
+					"body": "In this dream, I was in the Reticulum network, like I was inside that MeshChatX app nodes visualizer. It was amazing. I can’t explain the dream, but I was in those nodes. It was a short dream.\nI got another dream, but this time I was in an I2P network, and again I can’t explain it. I can’t write it in words.\n\nI got many more dreams, like in one dream I said this crazy line, but then I woke up. I thought of writing that line in my notes app for later writing in this blog, but then I slept again and forgot everything. No matter how much I try, I just can’t remember. And then I got several more dreams, and I forgot each one of them. Not only this, I am not having dreams at night as well.\n\nI think it’s because my mind is empty after giving exams and I have nothing in my mind except imaginations. I have been imagining a lot recently, and maybe because of that my mind gets tired and can’t form dreams anymore, or maybe because I am not going outside a lot.\n\n#tech #shorts",
+					"tags": [
+						"tech",
+						"shorts"
+					],
+					"paid": false,
+					"views": 162,
+					"likes": 0
+				},
+				{
+					"id": "5w896zodne",
+					"slug": "too-real",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-06-15T01:17:55Z",
+					"updated": "2026-06-15T01:17:55Z",
+					"title": "Too Real",
+					"body": "In this dream, I am not going to name the woman, but she was giving me diabolical blowjobs, and they were very similar to the BJs I saw on Missa AV Japanese corn in a house not mine, and BJ happened on the bed, table, and sofa. Also, I picked her up in a stand-and-carry position many times.\n\nI can’t really describe what I just witnessed. I am so gooned that this type of videos are coming in my head and modified so well it felt too real, like toooooooooooooooo real. I am not going to describe how and what happened because I liked it, but I am kinda disgusted by it as well. But it was a dream I remembered, so I wrote about it. Also, the sounds were similar to that one, you know, the sewer sound that these Japanese actors make.\n\n#intimate #shorts #nsfw",
+					"tags": [
+						"intimate",
+						"shorts",
+						"nsfw"
+					],
+					"paid": false,
+					"views": 179,
+					"likes": 0
+				},
+				{
+					"id": "k941881dvl",
+					"slug": "the-white-fan",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-06-14T23:19:46Z",
+					"updated": "2026-06-14T23:19:46Z",
+					"title": "The White Fan",
+					"body": "In this dream, I was in my uncle’s old house, and we were sitting on the chair and eating food. The fan was up there, spinning. As soon as I looked up, I saw it falling toward me. I quickly got away from there, but then it started spinning horizontally while the blades were getting struck by the floor. Everything was okay there. The furniture was okay, and all the people in the house were doing what they were supposed to do.\n\nSo now it came toward me, and in order to protect myself, I made a fist and put my right hand toward my chest at a distance. The blade clashed with my hand and got away. Then it came again and again and again, and every time it came, it got smaller and smaller. After a lot of clashes, the 2 blades got broken. That’s when I took a breath of relief and sat on the side of the bed looking at that shit fan.\n\nNow suddenly it started spinning again and came toward me, and while it was coming, it got smaller very fast. So I again put my right hand in front of me, but this time it got above my hand and slit my throat, and then I woke up. When I woke up, I still had that sensation of my slit throat, like I could feel the sensation. It was kind of a pain, but the type of pain when you want to cry but can’t cry and hold it, so that pain starts to happen. That’s the kind of pain I was feeling at the time. Also, the color of the fan was white.\n\n#weird #nsfl",
+					"tags": [
+						"nsfl",
+						"weird"
+					],
+					"paid": false,
+					"views": 168,
+					"likes": 0
+				},
+				{
+					"id": "djvauwkz9n",
+					"slug": "the-woman-downstairs",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-06-14T23:02:00Z",
+					"updated": "2026-06-14T23:02:00Z",
+					"title": "The Woman Downstairs",
+					"body": "In this dream, I was at my house, which is in a building. Then I opened the front door, got out, and went downstairs. In front of me was another house, whose gate was open, and the woman was sweeping the outside area of her house with a broom. While I was getting down, she and I made eye contact.\nIn real life, I have seen her around. I have also seen her somewhere, but I can’t remember where. She is hella beautiful, and we have also made eye contact several times.\nSo in the dream, I came to her, and we were just looking at each other, and then we started kissing. Then we got into her house. Now we were both kissing, and she was pinned to a yellow wall. Then I got her to the bed, and we both got naked. I saw her bush, and the dream ended.\n\n#love #shorts #nsfw",
+					"tags": [
+						"love",
+						"shorts",
+						"nsfw"
+					],
+					"paid": false,
+					"views": 164,
+					"likes": 0
+				},
+				{
+					"id": "h8pwjpsnze",
+					"slug": "the-tennis-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-27T23:04:08Z",
+					"updated": "2026-05-27T23:04:08Z",
+					"title": "The Tennis Dream",
+					"body": "In this dream, I was playing tennis with my mother using a small table tennis racket with a charge logo on it. The whole dream took place inside the house.\nBy the way, I was not actually playing table tennis.\n\n#life #shorts",
+					"tags": [
+						"life",
+						"shorts"
+					],
+					"paid": false,
+					"views": 202,
+					"likes": 0
+				},
+				{
+					"id": "qa0udlhfz5",
+					"slug": "the-food-delivery-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-27T22:59:52Z",
+					"updated": "2026-05-27T22:59:52Z",
+					"title": "The Food Delivery Dream",
+					"body": "In this dream, I was in my house and packed some food in a plastic container. I left the house, and when I left, I was shirtless. Then I went on the road to deliver this food to my close uncle barefoot.\nI got there and waited for him outside his building, but he did not come, so I went inside and took the stairs to the door. I saw a family member there with my uncle. She was facing backward, but my and uncle’s eyes got locked in, and I ran down the stairs as fast as I could. Then the dream ended.\n\nIn real life, I go to my uncle to deliver food, but because of some beef between members, I have to do it a little secretly.\n\n#weird #shorts",
+					"tags": [
+						"weird",
+						"shorts"
+					],
+					"paid": false,
+					"views": 204,
+					"likes": 0
+				},
+				{
+					"id": "6g2mt7z5uz",
+					"slug": "shit-friends",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-27T01:33:44Z",
+					"updated": "2026-06-14T22:40:30Z",
+					"title": "Shit Friends",
+					"body": "I can never understand what the problem is with people and me, especially the people who call me their friend. Whenever they want something, I provide it to them immediately without them having to tell me again on chat, but when it’s my turn, I have to write 2 to 3 times, and if there is more stuff coming, I have to deliberately ask them again for that stuff instead of them just sending it. Even important announcements are not sent by them.\n\nI have created many WhatsApp groups with different people because of this reason, but then again, none of the fuckers neither talk in the group nor send anything.\n\nRecently, I had some stuff to be dealt with, and that fucker told me he would tell me the time and that I did not have to worry about it. Then, as usual, I had to deliberately ask him, and he said, “Come.” Then, in boiling heat at 12 PM, I got out and traveled, while I could have done that at 10 AM. And when I got there, that fucker left and voice-messaged me to come the next day and get the signing done. If I were in his place, that thing to tell him the time would have stuck to my brain the whole night, and until I told him the timing, that thing would have kept stressing me and put weight on my brain.\n\nNot only this, almost all the groups I have been a part of, I have usually been the guy who is just there for entertainment purposes and has no value, and leaving the group would have changed absolutely nothing. That kind of saddens me because I want to be noticed.\n\nFrom the start, I have always been a quiet kid, and people never remembered me. And when I was around them for 2 hr, they get shocked and usually say, “When have you been here?”\n\nThat’s true. I make a lot of jokes, and all are diabolical, that no one can even think of saying or even think about, which makes everyone laugh. But I think because of that, people start to hurt me physically, like tapping the back of my head, punching me while laughing on my stomach, or just casually making me look bad because a girl is also hearing all of my stuff, and they have to make them look like macho or simp or chad, whatever you want to call it. I don’t like people like these at all. I really want to hurt them very badly, but I can’t because of morals, so I use my imagination and put my leg on their shoulder and stretch their neck until it gets torn from the body like a paper. The satisfaction I get doing it is soooo satisfying. They never interact and make my jokes more diabolical. I have met no one like this yet. If the girl does not have a problem hearing my stuff, who the fuck are you stopping me? Why can’t she stop me?\n\nAll of these people treat women like some kind of different creature that can be hurt by small things, like they are humans like us after all, twin.\n\nAll the friend groups of mine are built because of some situation, just like I made friends or they call me their friend because of situation. It would be nice if I had just a random friend group not based on situations.\n\nI thought of using the internet as the medium to make friends, and I made a lot of friends, especially on Discord, but all of them were related to tech, which is again a situation. Some of them were kids, some of them were paranoid Russians, and some of them were just uncs. It does not matter what the platform is, I only know tech people.\n\nIt would be amazing if I could also do all of those stuff that people on my Insta do, like going to concerts and bars or just normal travelling, etc...\n\n#personal #life",
+					"tags": [
+						"personal",
+						"life"
+					],
+					"paid": false,
+					"views": 189,
+					"likes": 0
+				},
+				{
+					"id": "qr8d8ye3po",
+					"slug": "talking-to-my-self",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-25T23:59:23Z",
+					"updated": "2026-06-14T22:40:11Z",
+					"title": "Talking To My Self",
+					"body": "I talk to myself a lot. When I was little, my family had daily fights, and I used to imagine a lot. I used to imagine that I am a robot that has no feelings and nothing matters. I used to imagine that I have friends and I am playing baybald or cycling with them. I used to imagine I am an astronaut or a cook, a guy who fixes different stuff like cars and bikes, a soldier who died on the battlefield, one of the Power Rangers guys (the blue one), or a Marvel cartoon character, especially that Iron Man guy.\n\nFrom my childhood till now, I have been pretty lonely. I stay inside my house all day locked, and at night I stay online.\n\nIt has gone so bad that I don’t realize that I am just talking to myself. I just talk, anything, just talk. I have said so many extreme and retarded stuff, it’s amazing. If I would have said that in front of a person, they would assume I am crazy or something. It has gone so bad that when I am talking, I put something into something else, like one time I was going to put a cloth press machine inside the refrigerator or put rice in a different utensil which had stuff for daal. Then it suddenly clicked to me what kind of lonely unemployed loser I am who is talking to himself. I feel pretty empty and guilty for myself.\n\nI also don’t really have friends. From the start, I have made friends in tuition, school, and college, but I don’t consider them as friends because we all came together to survive that stage of life together, not because we are just friends. And I know, like always, after college all of my contacts will stop communicating, and they will stay in my Instagram follow list as usual.\n\nI don’t even know how to talk to women other than women at home. I have only talked to 2 women friends openly in my entire life till now, and both are not available right now.\n\nI want love sooo bad. I will never leave my gf ever, or maybe just a friend to hug.\n\nI have never hugged anyone as well. Of course, my mother and my shitty fucking father did many times, but I don’t want that cry emotional hug. I just want a simple cozy hug, although it’s pretty gay to think of getting a hug from a man, but I am down for that also. To cure this problem, I usually hug my pillow while sleeping, and it feels sooooooooo good.\n\nIt’s fun to talk to myself, but through the time of COVID and till now, it has affected my studies a lot and me getting into accidents on the road because I am just thinking and talking to myself. And when I look at people and they are looking back at me, I realize how fucked up crazy person I am looking. But over the years, now I can think and talk at the same time in my mind. It’s not perfect enough, and sometimes I have to make use of my lips a little to get the words out, but now no one really notices, and those who do only listen to deep voices from my throat.\n\nThe only thing that has gone good talking to myself is improvement in my English. I cannot talk to myself in Hindi; it has to be English. Maybe it’s because I think it’s very cringe to talk to myself in Hindi, and everyone knows Hindi around me, but it is what it is.\n\nSo that’s it.\n\n#personal #weird",
+					"tags": [
+						"personal",
+						"weird"
+					],
+					"paid": false,
+					"views": 193,
+					"likes": 0
+				},
+				{
+					"id": "tj50xoowg4",
+					"slug": "personal-blog",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-25T23:25:50Z",
+					"updated": "2026-06-14T22:39:44Z",
+					"title": "Personal Blog",
+					"body": "A lot of people irl who read my blog ask why I don't make use of AI in my personal blogs like I do in my dream blogs. My answer is simple:\n\nBecause I want my personal blogs to have the mistakes I make. It has to feel written by me. There should not be a change of words or a change of the meaning of the sentence, although I read my dream blog and look for not having these problems, but you got the point.\n\nMistakes are what make my personal blog personal and relatable.\n\nEdit - I write blog for my self , for my own satisfaction not to earn money . i want stuff that has filled my brain to have a space so i can think more .\n\n#personal #life",
+					"tags": [
+						"personal",
+						"life"
+					],
+					"paid": false,
+					"views": 198,
+					"likes": 0
+				},
+				{
+					"id": "ztshazkxww",
+					"slug": "rotten-puh-pussy",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-25T23:20:06Z",
+					"updated": "2026-06-14T23:02:57Z",
+					"title": "Rotten Puh (Pussy)",
+					"body": "So it’s a very old story, but when I visited one of my girl (friend) house with some other people for just hangout, I needed to go to the washroom for pooping, and when I go inside and was locking the door, I got a weird sniff. I did not did it deliberately, it just came in my nose, so I look up and saw a brown panty with little flowers on it. Before that, I did knew what a panty is, nor I knew that there are underwear which are in V shape. So out of curiosity, I pull it from cloth hanger and started to examine it, and I am soooo sorry I did that. I should have never done that, but I did not even knew what reproduction stuff is. Anyways, I saw brown stuff inside, so I took it close and take a big sniff. That sniff opened my nose. You know how it’s like when you are bathing and water goes inside your ear, but after some time that tick happens and you start to hear everything in 3D? Just like that, I started to smell everything in 3D. I could feel taking extra oxygen (O2) through my nose. The description of that smell is hard to describe, but it was dark, black, and bitter in taste (I did not bite panty), and I never want to smell that shit smell again. Till now, I have not fucked any women, but if that’s how a pussy smells like, I am never going down on women EVER.\n\nAfterwards, I kept it where that shit belong, and the karma for smelling was watery eyes and mucus coming out of nose like water + a lot of sneezing.\n\n#personal #weird #nsfw",
+					"tags": [
+						"personal",
+						"weird",
+						"nsfw"
+					],
+					"paid": false,
+					"views": 181,
+					"likes": 0
+				},
+				{
+					"id": "iwczjhr96s",
+					"slug": "first-death-experience",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-25T00:46:50Z",
+					"updated": "2026-06-14T22:38:34Z",
+					"title": "First Death Experience",
+					"body": "I don’t know how to start writing this, as this is my first personal blog. Fuck.\nSo this happened when I was a child. I don’t remember what the reason was. Either it was me getting dropped from the scooty because of disbalance and fuckery of my parents, or because of food poisoning I had because I ate that kulfi from that street vendor with that red moving stall with my father’s father, fuck that guy, I hope he is dead by now, or because I got that jaundice, or because I got some other kind of disease, idk.\n\nSo when that happened, I had that last image in my mind before I closed my eyes for a blink, and when I opened my eyes after that blink, I was in a hospital room and everyone was staring at me, pretty normal :] (smiley face).\n\nBetween that time period, I was in the black. I was aware that I am in the black, not really; it’s hard to explain with words. I was not hearing anything, but everything in that black felt quite and peaceful. There were no thoughts, just a very good, gentle, cozy sleep. It was like I was not the person I am, just like in dreams, the people and me are totally different personalities. I hope my death is like this, but I die while fucking in the dream. That has to be bare minimum.\n\nWhen I opened my eyes, it was quiet. I was still that different person, but slowly, slowly, as I got aware, every fucking stress came back, noises came back, everything. I am assuming that’s how a baby would have felt in a vagina covered with soft tissues like a pillow, nature’s pillow.\n\n#personal #life",
+					"tags": [
+						"personal",
+						"life"
+					],
+					"paid": false,
+					"views": 176,
+					"likes": 0
+				},
+				{
+					"id": "8jk1slgs31",
+					"slug": "the-blue-ant-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-24T21:26:13Z",
+					"updated": "2026-05-24T21:26:13Z",
+					"title": "The Blue Ant Dream",
+					"body": "This dream was very long, but because the environment around me was so cozy, I forgot almost all of it after waking up.\nIn this dream, I was in a wooden house, and the whole night I was just killing these blue glowing ants while these fuckers ate everything, and I was not able to stop them. I screamed, yelled, used curse words, used my hands and different tools, but I just could not get rid of those fuckers.\nI talked to people, they helped me, and then they disappeared as well.\nAt the end, there were too many to control, and I think they consumed me as well. That is just an assumption, because I do not remember much of the dream.\nIn real life, I have a trail of red ants always getting the food in the kitchen, and I am scared of them getting onto my T-shirt while I forget they exist from the edge of the slab.\nThose blue ants were beautiful, by the way. I have never seen anything like that.\n\n#weird #shorts",
+					"tags": [
+						"shorts",
+						"weird"
+					],
+					"paid": false,
+					"views": 197,
+					"likes": 0
+				},
+				{
+					"id": "m73v7m4s6c",
+					"slug": "the-laptop-and-phone-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-24T20:53:10Z",
+					"updated": "2026-05-24T20:53:10Z",
+					"title": "The Laptop and Phone Dream",
+					"body": "In this dream, I was in a room with two people: one was a kid bigger than me, and the other was an aunt. The kid was sitting on a chair, and the aunt was on the bed with a blanket on. I think it was purple, and since it was a blanket, that means it was winter season. The walls had yellow paint on them.\nSo I asked the woman if I could call someone and if she could lend me her laptop. The woman who had the laptop looked at that kid and gave it to me, but I was just doing random stuff instead of calling, because calling happens on a phone, not a laptop. The laptop was black in color and had Windows 11. It also had a Type-C device connected to it, which I had not seen in real life before, but it looked cool.\nSo I gave back the laptop, and I came behind the kid. Then I saw a phone beside her. I told her to call someone and that I would not even touch her phone. So she asked me for the number while lifting the phone, and I told her my real-life phone number. And while the call was ringing, I woke up.\n\nI got another dream, but because I slept after seeing that, I totally forgot what the dream was.\n\n#weird #shorts",
+					"tags": [
+						"weird",
+						"shorts"
+					],
+					"paid": false,
+					"views": 207,
+					"likes": 0
+				},
+				{
+					"id": "ye4txcbd1a",
+					"slug": "from-retail-store-to-my-bedroom",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-20T22:34:19Z",
+					"updated": "2026-05-22T22:12:51Z",
+					"title": "From Retail Store to My Bedroom",
+					"body": "In this dream, I met the girl from **The Grey Door dream** — the one with the saggy oval face. We were in a retail store at the end of the right aisle. I was looking for a product on the shelves while she was browsing the ones attached to the wall.\nThen she asked me, “Do you know which one of these oils (Kachi Ghani mustard oil) is the best?”\n\nI told her I don’t use any of these. The one I use isn’t available here — I think they have stopped its production. We talked and walked around the shop together. In the end, I bought a facewash that came with a free body wash. The bottle was green in colour.\nShe was cute, by the way. (In real life, I bought that ₹80 facewash and the oil I use suddenly disappeared from the market — RIP.)\n\nNow the scene changed. I was at my house when the bell rang. I opened the door and got shocked seeing her. NGL, I mostly stay locked inside my house. I don’t like going outside — it’s just me and my internet.\nIn my mind, I was hoping she wouldn’t ask to stay the night because my mother was coming home later and it would be a problem. I asked in a very awkward way, with my eyes wide open, “Why are you here?”\nShe replied, “Why can’t we be together?”\nI said, “Because of your profession and blood group.”\nThen she asked, “Would you not ask me to come inside?”\n\nI told her I don’t trust her since we had just met. I said if she wanted to come inside, she would have to go through a check. She agreed, so I let her in, locked the door again, pulled the wooden door, drew the curtains, and even put newspaper on the mirror above the entrance door.\n\nI was sitting on the bed right after the entrance, and she was standing in front of me. I asked for her phone. It was a fucking iPhone — fuck Apple, their shit even came into my dream. I took her phone, switched off my and her phone, and put both in a black signal blocker bag.\n\nAfter that, I said, “Start undressing.” I don’t remember what she was wearing, but I know she undressed. I also don’t remember the colour of her undergarments.\nI stood up and took a knife that I have in real life. I slowly inserted it in the gap between her boobs and moved it up till her chin while looking dead into her eyes. She has big eyes. Then I pulled the knife back out.\nI looked at her panties. From the left side, I went behind her while keeping my eyes down, then looked upwards and saw her butt, her back, her straight spine, and her short black hair. She tried to turn her face from the left to see me, but I put my hand on her jaw and straightened it.\n\nI placed the knife on her pussy from behind and started rubbing it. I gently put my other hand on her waist, slid it to her belly, and covered her navel. Then I started tapping the knife on her pussy, trying to feel the vibration to check if she had hidden something inside her vagina. She hadn’t.\nFrom the left, I came back in front of her. Before I could say anything, she said she wanted to see me naked too because she also wanted to trust me. Without hesitation, I removed my t-shirt and jeans. I was wearing dark blue underwear, and she could clearly see my aroused dick. She said “FULL,” so I removed that as well, revealing everything.\nThe shocked face she made when she saw my dick was priceless — her eyes were popping out of their sockets.\n\nI came closer to her. She was looking at my face (maybe my eyes), but I was only looking into her eyes. I moved my face forward and our lips touched. (I have never kissed in real life.) Then she came closer to my face, but she had to stand on her toes to reach me. So I grabbed both her thick, fluffy thighs and we got into the ‘Stand and Carry Position.’ We were both kissing.\nThen I dropped her onto the bed and got on top of her. We continued making out with her thighs still in that position. While she was on the bed, I also removed her undergarments.\nAnd then the dream ended.\n\n#love #nsfw",
+					"tags": [
+						"love",
+						"nsfw"
+					],
+					"paid": false,
+					"views": 218,
+					"likes": 0
+				},
+				{
+					"id": "3kpz1sm1m0",
+					"slug": "a-dream-sequence",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-20T22:25:49Z",
+					"updated": "2026-05-20T22:35:37Z",
+					"title": "She Begged for More",
+					"body": "In this dream, a woman was sitting on a chair in front of me with a table between us. The atmosphere was quite dark, lit only by a yellow glow coming from a bulb. I turned on the recording device and asked her:\n\n\"Are you here willingly?\"\nShe said, \"Yes.\"\n\n\"Did I or anyone force you?\"\n\"No.\"\n\n\"Are you on drugs while we are recording?\"\n\"No.\"\n\n\"You acknowledge that I am going to give you drugs?\"\n\"Yes.\"\n\nShe said this with a smile on her face.\nThen I asked her why she was here. She replied that she was here to confront what was bothering her.\n\nWith my hand, I directed her toward a metal bed. She lay down on it, and I approached her. The camera was recording, but it could only capture the black silhouettes and the light blue glow coming from the windows beside the metal bed. Everywhere else was dark.\n\nI took out the injection and administered it to the area between her waist and belly. The conversation continued, and eventually she cried and shared some very personal things that cannot be shared on this blog.\n\nAfterward, I stood facing her. She looked up at me with very sleepy eyes and said, \"Come closer.\" I moved closer. She repeated it, so I came even closer. Then she said, \"Closer,\" grabbed my cheeks softly with both hands, lifted her face, and tried to kiss me. I pulled back and said that the injection increases the senses and apparently also increases horniness.\nBefore this session, a lot had already happened in the dream, but I don’t remember any of it.\n\nShe pleaded, \"Please, I need this. Please, please, please.\"\nI lowered my face and kissed her forehead. She closed her eyes and moaned (I’m not sure how to describe the sound). Then I moved to the side of the rectangular bed and licked her navel. She was in her undergarments the entire time.\nAfter that, I bared my teeth, grabbed one of the skin folds in her navel, twisted it, and applied pressure. She started screaming, but I continued. She even placed her hand on my head. After some time, she began releasing a very slimy, watery fluid that dripped from the bed. The liquid stretched in thin lines before falling to the floor.\n\nLater, I asked if she would like to sleep. In response, she lifted both her hands toward me. I picked her up, carried her to my room, and laid her down. Because the AC was on and the room was cold, I covered her with a blanket. While looking at her sleepy face, I removed her undergarments and threw them aside.\nI then sat on the sofa near her legs and worked on my laptop for the rest of the dream. Throughout all this, the camera kept moving around the space and recorded everything.\nThat’s where the dream ended.\n\n#intimate #nsfw",
+					"tags": [
+						"intimate",
+						"nsfw"
+					],
+					"paid": false,
+					"views": 193,
+					"likes": 0
+				},
+				{
+					"id": "jo6o0ixv8o",
+					"slug": "the-havoc-at-my-uncles-house-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-20T22:15:13Z",
+					"updated": "2026-05-20T22:15:13Z",
+					"title": "The Havoc at My Uncle’s House Dream",
+					"body": "In this dream, I was at my mother’s brother’s house. His wife and daughter were there. The daughter opened the door, and a guy with glasses, a black shirt, and jeans was standing outside. He was taller than me and had a good body — not very muscular, but well-built. Some conversation happened, and she pushed him away. I came outside and pushed him as well, and he rolled on the stairs and lay there in pain. Then we both went back inside.\n\nThe scene changed, and we were on the balcony. I saw him again, so I started throwing rocks at him. Another guy was with him, and behind them was a black car. He said something that made me look across the road, and I saw a woman. I took a very big rock and threw it at her. It hit her on the head. I do not know if she died, but she definitely was not going to open her eyes for a while. Then we both started throwing rocks at him.\n\nI could see anger in his eyes. He started running toward the building and pressed the doorbell frantically. This time, her mother opened the door. He came inside and sat on the sofa furiously. I also came and sat on the sofa. Both of the women were not there. I pulled out a glock and started shooting at him, but every bullet missed.\n\nI removed the top black part of the pistol and replaced it with a purple one. This time, he had a phone lying on his thighs with no back cover. I could see the battery and other components. I shot at the battery, and there was a spark. Then her mother came with a futuristic gun, inserted it into the wooden back part of the long sofa, and turned it on. The guy started screaming, melting and disintegrating, and I just watched.\n\nThe scene changed again. I saw under the bed that there was an underground metro station. His melted body was lying on the track. A silver-white train approached, the atmosphere around it also silver, and the train crushed him. The camera followed the train until I saw the next station on a yellow digital board shaped like an open parenthesis { ( }, with the open part below.\n\nThen the dream ended.\n\n#weird",
+					"tags": [
+						"weird"
+					],
+					"paid": false,
+					"views": 203,
+					"likes": 0
+				},
+				{
+					"id": "0kjbbm9k8u",
+					"slug": "the-milk-fridge-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-20T22:07:56Z",
+					"updated": "2026-05-20T22:07:56Z",
+					"title": "The Milk Fridge Dream",
+					"body": "In this dream, I was in front of my house fridge. I opened it and started to pour milk on the top glass slab, which had a cover with flowers on it, just like in real life. That milk started to drip slowly from behind the fridge, and then it came almost to my leg from behind the vegetable basket.\nThis whole process made me furious. In the dream, there was an anger and burn in me that’s hard to describe. The anger can be described like when you always tell someone to check if the heater is turned off after a bath, and one day you go inside and see the heater on.\nThat was the whole night.\n\n#weird #shorts",
+					"tags": [
+						"weird",
+						"shorts"
+					],
+					"paid": false,
+					"views": 208,
+					"likes": 0
+				},
+				{
+					"id": "6ncq9a15o8",
+					"slug": "the-three-sisters-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-16T21:32:58Z",
+					"updated": "2026-05-19T23:54:41Z",
+					"title": "The Three Sisters Dream",
+					"body": "In this dream, I was in a house with three girls. I think they were sisters, and I have seen their faces before. I know that, but I do not remember their faces after waking up.\nSo in the whole house, I was running behind them, trying to find them, and then I would create a gun shape with my hand and shoot at them, basically getting caught. I kept doing this the whole dream.\nIn the end, I was behind a bed, and two sisters were in front of me laughing. My hand the whole time was in front of them in the shape of a gun. Then from the right side, another sister came from another room, and then I did the shooting animation to her too, and she was also laughing. I think I was laughing too.\nIt was a pretty wholesome dream. I loved it. It felt refreshing.\nAnother thing is that I saw it at 9 PM while I was sleeping in a bad position, and when I woke up, I wanted to puke. One of the sisters was the saggy oval face girl from **The Grey Door** .\n\n#life #shorts",
+					"tags": [
+						"life",
+						"shorts"
+					],
+					"paid": false,
+					"views": 278,
+					"likes": 0
+				},
+				{
+					"id": "8d246fr7z0",
+					"slug": "the-lollipop-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-15T20:47:45Z",
+					"updated": "2026-05-15T20:48:43Z",
+					"title": "The Lollipop Dream",
+					"body": "In this dream, I was in the house with the girl from **The Wholesome Morning Moment** . She was sitting on a chair, and the environment was pretty yellow and cozy. I was in front of her, and then I went back and grabbed two lollipops. They had white sticks, and the upper circular lollipops were packaged in square plastic. The plastic was red in color and had something on it, maybe ads.\nThen I was giving them to her, and while she moved her hand forward to grab one of them, the dream ended.\n\nThen I woke up. I remember there was a lot more happening in that dream, but I had already forgotten it. When I woke up, I suddenly got the knowledge of another dream I had a long time ago, which was kind of related to this one. But I was sleepy, so I did not record that in my notes and just went back to sleep.\n\nWhen I woke up in the morning, both dreams were completely wiped out of my brain. I am very angry and frustrated right now. I tried very hard to remember, but I just cannot.\n\n#love #shorts",
+					"tags": [
+						"love",
+						"shorts"
+					],
+					"paid": false,
+					"views": 236,
+					"likes": 0
+				},
+				{
+					"id": "fek1a3g1i2",
+					"slug": "the-finger-skin-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-14T20:33:25Z",
+					"updated": "2026-05-14T20:33:25Z",
+					"title": "The Finger Skin Dream",
+					"body": "In real life, in hot summer, the top skin of my fingers and toes starts to shed. So I use my teeth, take a part of that skin, and start removing it. Sometimes I do it too much, to the point where it starts to hurt, and I can no longer take it any further. So while the blood is coming out, I remove the skin from that area.\n\nIn this dream, there was a hand, which was my hand, and there were no teeth. The background was black, and from the middle of the top part of the index finger, the skin started to stretch in a horizontal line toward the middle. At that point, I felt pain, and throughout the dream I was trying to stretch it beyond that, but I could not because of the pain. Then I woke up.\n\n#weird #shorts",
+					"tags": [
+						"weird",
+						"shorts"
+					],
+					"paid": false,
+					"views": 225,
+					"likes": 0
+				},
+				{
+					"id": "2x6iqtvcrx",
+					"slug": "dream-of-the-mall-area",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-13T20:50:00Z",
+					"updated": "2026-05-13T20:50:00Z",
+					"title": "Dream of the Mall Area",
+					"body": "In this dream, I was in a mall like area. I think it was the Bank map from Rainbow 6 Mobile, and the area was very yellowish. We were all running to random places, and our goal was to get out of that area before the doors shut. So I was running like everyone else, and I was an inch away from the door, but it got shut. There was a person with me there, so suddenly I heard something, and I got behind the wall. The guy got melted in blood from the water/acid coming from the camera at the top left corner. I was watching it while staying behind that pillar.\n\nThe scene changes, and now I am in a big hall in the Balasana yoga position, but no one is stretching their hands. In front of me is a woman, and her butt looks incredible, and I cannot see behind, but the hall was filled with people. There was a guy sitting on a chair and another guy roaming around with a gun. That woman was wearing purple leggings, and she had very cute feet with tiny toes in an oval shape. Her feet were so cute that I decided to kiss her heel. I have no feet fetish I am just writing what I saw. Then, little by little, her whole feet and each individual toe. She looks at me and makes that annoyed face, and then goes back. Seeing her two big butt cheeks, I decided to kiss the left one, after kissing a lot, then the right one, while going from the middle of course. And while I was doing this, I heard a woman’s voice from behind saying, “His butt has hair,” then giggling. I stopped, moved my head to hear what she was saying, then as soon as I looked again at the butt, she was naked. While writing this, that picture of that sweet butt is coming in front of me. Then I felt that I was also naked, and then I looked around, and everyone was naked, lollll. So I looked at my goal and started kissing again. This time my lips were feeling her butt skin. It felt real, but then the guy roaming around came and said, “What are you doing with my daughter?” I looked at him and continued to kiss. While I was kissing her, the camera angle changed to third person, and I was seeing myself kissing her from the side, btw.\n\nThen the guy ordered a baby production machine, and the scene changes, and I see two cartoon doctors which are birds, I think. The male had black square glasses on, and the female had a red bindi, and both had white coats on and were blue in color. They were driving this giant machine, which I cannot describe, and they got it into the hall area on the Bank map, where there are two staircases to go up. And as soon as I saw that thing, I woke up, and the dream ended.\n\n#intimate #organic #nsfw",
+					"tags": [
+						"intimate",
+						"organic",
+						"nsfw"
+					],
+					"paid": false,
+					"views": 244,
+					"likes": 0
+				},
+				{
+					"id": "8vvllqhte2",
+					"slug": "the-wholesome-morning-moment",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-13T20:38:04Z",
+					"updated": "2026-05-14T13:52:28Z",
+					"title": "The Wholesome Morning Moment",
+					"body": "I do not remember the whole dream, but in this dream, the people I know were near me, and we were at my mother’s brother’s house.\nThere was this one famous girl I wanted to talk to, so while she was going somewhere, I cornered her and asked, “Would you like to click some pictures with me?”\nAnd she said, “In the morning.”\nBut then I said, “You will leave in the morning.”\nThen brother’s wife said something about both of us, and all the people started laughing, including us.\nPretty wholesome moment.\n\n#life #shorts",
+					"tags": [
+						"life",
+						"shorts"
+					],
+					"paid": false,
+					"views": 224,
+					"likes": 0
+				},
+				{
+					"id": "krqtgrgiql",
+					"slug": "the-brown-haveli-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-12T20:14:50Z",
+					"updated": "2026-05-12T20:14:50Z",
+					"title": "The Brown Haveli Dream",
+					"body": "In this dream, I entered a big haveli-type house, and everything there was very brownish. The glasses were yellowish-brown, and the stones used had a brown or facial color on them. There was a big red carpet, and above it were slices of long red cloth strings attached to the sides of that area. In the middle, all those strings were attached to a red circular thing hanging above.\n\nSo I came in and started roaming around, trying to find someone to talk to. By the way, there was no roof in the middle of that haveli. So I found a guy, and we talked. I do not remember about what.\n\nThen we went to this aunty who was wearing a saree with red and yellow colors in it, and we asked her where the girl was. She pointed toward one of the upper rooms. So we both started going there, and in between we saw this very beautiful aunty whose saree color was purple and white. She had curly hair and a curvy body, and she went into a room.\n\nMy lustful brain, for some reason, started peeking through a hole that was in one of the bricks. Then she went into a squatting position and just started staring at me. In the dream, it did not feel weird, but now that I think about it, I think that was a trap because purple in my brain usually indicates poison.\n\nSo we started marching toward the room after going through the staircase to the first floor. Outside that room, I saw a guy giving money to a girl and, I think, her husband. The girl was wearing a pink saree, and she had covered her face.\n\nNow the scene changes, and I am sitting on a sofa, and there is a table. An uncle and aunty were there, whom I do not know, and there was tea in cups on the brown circular table. Some talk happened there which I do not remember, but I do know that the same or maybe a different pink saree girl came out, and I said something in my mind in the dream.\nAnd then the dream ended.\nBy the way, whatever people I saw in this dream, I have never seen any of them in real life.\n\n#weird",
+					"tags": [
+						"weird"
+					],
+					"paid": false,
+					"views": 223,
+					"likes": 0
+				},
+				{
+					"id": "y7y6xs80li",
+					"slug": "the-school-bus-dream-vhlx",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-12T20:10:23Z",
+					"updated": "2026-05-12T20:10:23Z",
+					"title": "The School Bus Dream",
+					"body": "In this dream, I was in a school bus, and the roads were pretty empty, with small kids around. I was seated there, and the bus was moving. There were random noises everywhere, like children make. We were all wearing yellow shirts with dark blue pants and an ID card as well.\n\nAnd suddenly, I was in the bus with another girl, and everyone disappeared except the guy who was driving. Then he left the girl at her destination, and then he reversed the bus. While reversing, he tried to go forward into the grass area, and then he stopped it on the slope.\n\nSo I asked him, “What the fuck are you doing?” He said he was turning it and we were going back to school. So I looked behind, and I remembered that my house was pretty close to that main road. So I told him, “Just get me to the main road and I’ll go by myself.” He said no, so I was just sitting there.\n\nThen suddenly he decided not to reverse anymore and to go straight on the path. He increased the speed, and he was just going on the right side. I looked and saw a lot of balls made of sand, but I did not care. But there was a line, a wall of sand.\n\nThen we got to this area where there was a pit of sand, and beside it, at a lower level, there was a whole sandy area. So the bus driver decided to go full speed and jump the bus to that lower area. So he did. Then there were some more sandy, rough, bumpy areas with patches of different tires on them.\n\nNow suddenly the scene changes, and I am one of the construction workers that were working in that sand bed. I saw the bus going away from my direction, so I notified others, and everyone just started running and started trying to stop him, but he did not listen.\n\nThen we got a camera, and then I became the two construction workers who were running from that area. While they were running, a dinosaur came, which only had a skeleton on it, and he ate the guy who was on top of me. And then as soon as he started to leave, I started running, and he recognized me running and also ate me.\n\nThen the scene changes again, and now I am in a costume, and I am asking my friend to open the door. The costume seems very sci-fi. So he opens the door, and from the sandy area we go into some abandoned building.\n\nThere, while being in the mask, I ask to stand for that dinosaur and the others, and the scan gets completed. It turns out he was at the edge of the side, so I took out my sniper and came in front of him and shot him, and then ran back. The sound of the sniper was the same as the sound of that sniper from Apex Legends Mobile (Kraber).\n\nThen he came in front of me in that hall, so I again sniped him and then again knifed him. But it turns out that the dinosaur was just getting its energy. I was targeting the eye, and whenever I hit the eye, a blue line came at the side of the eyes, and it seemed like it was absorbing that energy before shooting.\n\nThen, after those two bullets, the AI that was in my suit converted the whole area into some school. And the dinosaur had a skin on it; it did not have any of that stuff in real life in the dream, but the system created this whole projection for me so it would be easy for me to kill that fucker.\nAnd then while I shot those two bullets, some people in my real life woke me up, and the dream ended.\n\n#weird",
+					"tags": [
+						"weird"
+					],
+					"paid": false,
+					"views": 215,
+					"likes": 0
+				},
+				{
+					"id": "lwiezpf6py",
+					"slug": "the-brown-book-and-the-robots",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-11T20:24:00Z",
+					"updated": "2026-05-12T19:48:29Z",
+					"title": "The Brown Book and the Robots",
+					"body": "In this dream, I was in a room, and the atmosphere of the room was yellowish-brown. Suddenly, a book came into my hand. It was brown in color, and something was written on it in golden color.\n\nWhen I opened the book, the pages were brown in color, and I could also smell the fragrance of the pages that usually comes from an old book. Then I opened a part of the book and saw a picture of a brown robot. Then I went to another page, and there was another robot. Then I saw another robot, and then another robot, but this robot had a chainsaw with it.\n\nThen suddenly the scene changed, and I was in a plain field. There was sunlight, and there was a surface full of grass. I started running for some reason, and then I was just running as fast as I could. When I looked behind, the first robot was just running behind me, so my heartbeat in real life started to increase and I ran even faster.\nThen these robots started to come from all sides while I was running, and eventually I got caught, and there was black.\n\nThen the scene was again the same. There was sunlight and green grass, but this time I was behind a bush. It was a square area with fences, and I was hiding from something. When I peeped from the bush, I saw that second robot, and it started, and then it to swami, but I was hiding from him.\n\nThen I started running, but I got stuck in the fence, and then he killed me, I think, because then it was black, and then I woke up. My heartbeat was racing very high, and I could hear staff from someone. It was a male. Then suddenly there was complete silence.\n\nThen I went back to sleep, and this time there were dark clouds, and there was just a flat brown area. I was running as fast as I could, and they all were coming from the front and from behind. It was a very tense chaos.\n\nI also got the ability to jump very high, so I was running and jumping, dodging every single one of them. It was the chainsaw one this time, and I was just running, running, running, dodging every single one of them.\n\nBut then suddenly I saw a city with big buildings, and I was very happy, so I ran, ran, ran. Suddenly, the four chainsaw people robots started coming towards me with a wide alien-like face with eyes and two hands, and it was in a rocky shape like that rock Pokemon.\n\nI was going to dodge him, but he was in the air, and it was hard to dodge him. But somehow I dodged him from under. Because I dodged him from under, I had no time to jump, and I got got by four robots. Then there was black, and I woke up.\n\nWhen I woke up, my heartbeat was racing very high, and I was sweaty.\n\n#weird",
+					"tags": [
+						"weird"
+					],
+					"paid": false,
+					"views": 193,
+					"likes": 0
+				},
+				{
+					"id": "s9ipwwm1pp",
+					"slug": "three-dreams-in-one-night",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-11T19:19:22Z",
+					"updated": "2026-05-11T19:19:22Z",
+					"title": "Three Dreams in One Night",
+					"body": "In this dream, it was raining heavily. The aesthetic of that scene was brown, more specifically tree-brown, and everyone was wearing a brown jacket with blue jeans. Some also had cowboy hats on.\n\nI do not remember this part of the dream very clearly, but basically I walked up to a group of guys and talked to them. Then one of them pointed and said, “Go in the store and wait.” So I went down the stairs, got inside, and sat there.\n\nThen the guy came and asked me what I wanted. I said I wanted a loan because, for some reason, I could not get my money out. Then the guy asked what it was for, and I told him I wanted to find someone, and I showed him the photo of that kid.\n\nThe guy said these types of cases are common and that the kid would not be found. Then we had a little more discussion, and after that I woke up.\n\nThen I slept again in real life, and this time I was in a jungle. An animal like a tiger was having a race with me, and it was epic. My legs were flying like a bird. But in the middle of the race, a guy came and said, “Go back home.” So the animal and I started going back, and the area around us slowly started to have buildings.\n\nThen I woke up. Not gonna lie, I was very happy while racing.\n\nI slept again, and this time I was in a house. I was sitting beside a girl whose face I do not remember, and in front of us was a small round brown table. We were sitting on the floor. The floor was made of marble, and the house looked expensive.\n\nWe were playing some game — I do not remember what — but I was losing continuously. Every time I lost, I kissed both of her cheeks, the bone area between the neck and face on the right side, and the palm of her hand.\n\nAnd then I woke up.\n\n#weird",
+					"tags": [
+						"weird"
+					],
+					"paid": false,
+					"views": 207,
+					"likes": 0
+				},
+				{
+					"id": "vw38zq4eaq",
+					"slug": "the-sunny-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-11T19:15:28Z",
+					"updated": "2026-05-11T19:15:28Z",
+					"title": "The Sunny Dream",
+					"body": "I do not remember this dream very clearly, but in it I woke up from sleep, and it was sunny. I was in my underwear. I started going around and looking for clothes before going to bathe, but then I saw the bra and panties of women. When I looked back, I saw two blonde women naked. I think I saw this dream because I mostly see blondes in porn.\n\nThen I asked both of them to please just take their stuff, but then something happened. They said something, and then one of them came in front of me and started rubbing her pussy. I got hard, and I also removed my underwear and fucked her. It was a pretty good experience, not going to lie.\n\nBut then the scene changed, and it was dark outside my house. As soon as I blinked, both women disappeared, and their garments also disappeared. Then there was an earthquake, but in the shape of a wave, so everything in my house was waving.\n\nI started moving because I wanted to get out of the house. While I was moving through the window, I saw Wednesday market, and people were selling fruits and vegetables there. Then when I looked back, I saw a very long straight railway track in the Wednesday market.\n\nThen from the right, a train came and started chasing my train on the track. My train increased speed, while that train was also behind me. Because that train was coming closer and closer, and it looked like a monster to me, I started running away. But no matter how fast I ran, I just could not escape from it, and it kept getting closer and closer. In real life, my heartbeat rose very, very much.\n\nThen suddenly a guy appeared in front of me, said nothing, and disappeared. But I was still scared. Suddenly that train got close to my train, but then the camera angle changed and I was outside the train. There was no railway track there; there was only a green truck, and it got crashed. The pipe from where the smoke comes out started to emit fire, and then a blast happened, and then I woke up.\n\n#weird #nsfw",
+					"tags": [
+						"weird",
+						"nsfw"
+					],
+					"paid": false,
+					"views": 197,
+					"likes": 0
+				},
+				{
+					"id": "hxy836oam4",
+					"slug": "the-blue-mall-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-11T19:07:43Z",
+					"updated": "2026-05-11T19:07:43Z",
+					"title": "The Blue Mall Dream",
+					"body": "In this dream, I was in a big mall, and the mall had dark blue pillars. I think I was in front of a ward, but then I met someone, and he said, “Go get the medicines.” So I moved back, and then I went from that small staircase to the medicine area.\n\nThat medicine area was very futuristic. There was a whole rectangular screen placed vertically, and it was turned off. Everything had blue LED neon light, and it looked very fun. Then I looked at the guy. He looked like a Chinese uncle, and when I asked him for the medicine, he just looked at me, then packed his bags and walked away.\n\nI then went back from that same small staircase, and when I turned back, I saw a very big area with two girls talking and doing something on the phone. There were people around me walking at the side of that long hall. Everything was very blueish, even the walls. They were grey and bluish in color.\n\nSo I started walking towards the girls, but then I changed my path and started walking straight. When I got to the end, I saw an elevator, so I pressed the down button, and suddenly a very big tire appeared from that elevator and it was coming towards me. I froze at that moment, and in real life my heartbeat raised, so I pressed the elevator again. This time, the thing that closes the elevator got fucked.\n\nThen I turned left, and I saw another truck tire coming towards me. It was very big, and at that moment I got scared and started running toward the woman. When I came close to them, a person came who had no clothes on except underwear, and then the scene changed.\n\nI was at a beach, and everyone was enjoying themselves. Music was playing, and there was a sunset happening. It was a pretty cool place, and then I talked to that guy, and we also danced.\n\nSuddenly, a wave of sound came. I looked up and saw dark clouds forming, and I also saw a yellow light coming behind the trees. While everyone was enjoying themselves, the underwear guy started running somewhere, so I also started running behind him for some reason.\n\nThen he increased speed and ran as fast as he could. Another wave came, and I thought it was a nuclear explosion, so I also ran as fast as I could. When I looked back, there was nothing. There was no beach anymore. It was a green grass area that we were running in, in the dark.\n\nWhile we were running, I saw a swimming pool without water, and the guy jumped from it. I also jumped from it, and then the guy started running toward a hole, which was between that grass area. As usual, I started running as well, but this time I ran as fast as I could, like it was a life-or-death situation.\n\nBut suddenly I got consciousness. I started waking up, but I did not want to wake up. In that time between waking up and not waking up, I heard some sounds like they were coming from an old TV, like zzzzzz.\n\nAnyways, I got into the hole, and when I got in, I saw that the guy had locked me outside. I started banging on the door, but he just would not open it, and then the dream was over.\n\nWhen I woke up from the dream, the silence felt pretty good.\n\n#weird",
+					"tags": [
+						"weird"
+					],
+					"paid": false,
+					"views": 196,
+					"likes": 0
+				},
+				{
+					"id": "fy1nwkgg4d",
+					"slug": "the-grocery-store-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-11T19:00:41Z",
+					"updated": "2026-05-19T23:50:05Z",
+					"title": "The Grocery Store Dream",
+					"body": "In this dream, I was in a grocery store and I was looking for the usual things I buy in real life. The grocery store had a green and white color palette. While I was looking for what I needed, a room suddenly appeared. It was pretty interesting, so I went inside.\n\nWhen I got in, I saw someone’s house that I had never seen in real life. In a circle, there were some of my friends playing cards. The girl I have a crush on grabbed my hand and made me sit there. I sat with them, playing and laughing, even though I do not know how to play cards.\n\nThen I turned back, and when I turned back, I saw a skin-colored sofa and a woman in a black dress just staring into my soul. She had very beautiful big black eyes, and she was beautiful in general. I do not remember her face, though i saw her in **The Grey Door** the saggy oval face girl . But then I felt very weird looking at her, so I stood up.\n\nThe girl I have a crush on asked me where I was going. I said I was going home; it was time. So I opened my bag and checked everything in it. In real life, I also check my bag a lot of times because you never know when a guy might get a knife and just tear the bag from behind, taking your stuff.\n\nAnyways, I checked, and everything was there. Then I moved forward. When I got out of that room, everything was scattered. All the vegetables and all the food products were just scattered everywhere. It was chaos there.\n\nThen I saw a child. I gave him space to go to his father. His father looked at me, and I looked at him, and then I moved on.\n\nSeeing all of this chaos, I wanted to go outside the grocery store, so I moved straight toward the exit. I stopped in between and checked my bag again to make sure everything was in there, and everything was in there. And as soon as I came close to the door, suddenly I got blacked out, and then the dream was over.\n\n#weird",
+					"tags": [
+						"weird"
+					],
+					"paid": false,
+					"views": 194,
+					"likes": 0
+				},
+				{
+					"id": "ve1n4cmep8",
+					"slug": "the-most-embarrassing-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-11T18:54:31Z",
+					"updated": "2026-05-12T19:52:52Z",
+					"title": "The Most Embarrassing Dream",
+					"body": "In this dream, I was masturbating on the bed while all the people I know were just looking at me and moving around. I felt pretty embarrassed.\nAfter I woke up, I really did not want to talk about this dream, but I’m writing it just for the sake of writing it.\n\n#intimate #shorts #nsfw",
+					"tags": [
+						"intimate",
+						"shorts",
+						"nsfw"
+					],
+					"paid": false,
+					"views": 204,
+					"likes": 0
+				},
+				{
+					"id": "7obsjhfqo9",
+					"slug": "the-water-boy",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-11T18:52:05Z",
+					"updated": "2026-05-11T18:52:05Z",
+					"title": "The Water Boy",
+					"body": "In real life, I get my water from a water boy, and he charges 25 rupees per bottle. So what happens is that sometimes he accidentally spills some water outside the bottle onto the ground. But it has happened so many times now that it’s become very annoying.\n\nSo in this dream, he did it again, but this time he spilled way too much. A very big chunk of water was just on the ground, and he had the audacity to not even look me in the eye. He just kept filling the bottle.\nThis time, I did not hold back. I just started verbally fighting with the guy. I remember something that I said to him, but I cannot tell it because it’s very personal.\nAnd then he left, and by the way, I did not pay him.\n\nSo that was the whole dream. The whole 8 hours, I was just screaming, lol.\n\n#life #shorts",
+					"tags": [
+						"life",
+						"shorts"
+					],
+					"paid": false,
+					"views": 207,
+					"likes": 0
+				},
+				{
+					"id": "pb88h7dsim",
+					"slug": "the-grey-door",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-11T18:48:30Z",
+					"updated": "2026-05-11T18:48:30Z",
+					"title": "The Grey Door",
+					"body": "In this dream, I was in Group 1, and we were in a mall-like area collecting supplies. I was in a relationship with a girl. There was a lot of history between the groups, but I forgot all of it. The only thing I remember is that aunt. Fuck her. She always had some kind of issues. Also, there was the sister of my girl.\n\nNow I get teleported to the other group, which was totally fucked. I also had a history there, but I forgot it too. It was a pretty long dream.\n\nSo that fucked up group attacks my group, and it was brutal. I can't tell everything, but both the aunt and the leader die in that. There was a guy from the other group who came in front of the girl after she opened that grey door, and that guy had red eyes. So she sprayed water from her gun, and nothing happened. Her gun was green, by the way. But then he shot a load of water on her, except it was acid, so it burned the right side of her body. She started running to the exit, crying and screaming, while he ran behind her. I saw that, so I took a triangular beaker with some pink liquid and threw it at him, but I could not see what happened.\n\nSo while all of this was happening, and other stuff was happening in the background, a blue shutter opened, and there was a vehicle connected to multiple cargo boxes. Inside those boxes were people who were dirty and hurt, so we all rushed to the boxes. The lady outside said, “Come everybody, fast,” or something like that.\n\nWhen I stepped out of that hell and placed my foot on the ground, I felt relief that finally it's fucking over. I was near the cargo, and then it clicked in my brain — where is my girlfriend? So I looked back, and the whole store was almost empty. People were still fighting, and there was pressure from them to go inside.\n\nAnd suddenly the scene changes, and I am running at night toward a big brown gate alone. It was half open, so I went inside and ran through the red staircase. That staircase was very broken. Sometimes I had to jump, sometimes I had to trust my gut because the metallic base was bending downward when I put pressure on it.\n\nSo I get to the last staircase, and when I climbed that small ladder halfway, I shouted. There were six people, including my girlfriend’s sister. When I waved at them, they were very happy seeing me. I had a thought in my mind to make her sister my new girlfriend. (It would be a cheating thought.) So I looked back and saw a fucking line of people, and in that line, I could not see my girlfriend. By the way, we were standing in front of a rocket.\n\nIt was a very long dream. Also, the dream cuts, and I wake up with my girlfriend’s sister kissing my chest. (Fuck, this is cheating again.) The lighting in that room was pretty soothing, with sunlight coming from somewhere. The whole scene looked picture-perfect.\nAnd then suddenly, I finally wake up again.\n\nI don't remember the faces of those two girls, but my girlfriend had a crisp jawline, and her sister had a saggy oval face with a lot of puff in it, sort of like a polythene bag.\nThe aunt who was in our team had red hair. I think it's because I recently saw two girls in my college class having the same red hair color. And the acid guy had a longitudinal, stretched rectangular face.\n\nAlso, there was no one I have ever seen in real life. Usually, in dreams, real-life people come in, but in this one, no one was from real life.\n\n#weird",
+					"tags": [
+						"weird"
+					],
+					"paid": false,
+					"views": 181,
+					"likes": 0
+				},
+				{
+					"id": "tlk1y39wy2",
+					"slug": "uncle",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-10T20:37:34Z",
+					"updated": "2026-05-10T20:38:27Z",
+					"title": "Uncle",
+					"body": "In this dream, I was in an open restaurant—it was totally open. It was daytime, and red decorations on the ceiling were reflecting red light everywhere. I was sitting at a round brown table with the father of the **Love That Hurt** blog girl, and we were talking about life. Just all the life stuff. It was refreshing.\n\nI don't know why the hell he came into my dream, bruh, but the thing I remember was that he was wearing a royal blue non-collar T-shirt. The sports one, the kind where the fabric feels very silky and plastic.\n\n#life #shorts",
+					"tags": [
+						"life",
+						"shorts"
+					],
+					"paid": false,
+					"views": 208,
+					"likes": 0
+				},
+				{
+					"id": "2ww6q23ppe",
+					"slug": "the-girl-who-kept-forgetting-me",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-10T20:05:38Z",
+					"updated": "2026-05-19T23:52:48Z",
+					"title": "The Girl Who Kept Forgetting Me",
+					"body": "In this dream, I was in a big field filled with green grass and neon lighting everywhere. There were people roaming around, and it was nighttime. Everyone was having fun—it felt very peaceful. I was also having fun there. I was jumping, roaming around, talking to people.\n\nThen I went to this class and saw this girl. I talked to her, but then someone came and started taking me out, so I grabbed her hand and ran. We had fun—not in a sex way, just general talking and jumping. That's all I remember. I don't even remember what we talked about, but I remember we talked anyway.\n\nThere was a pool in between the yard, and there were different kinds of pouches lying around somewhere—blue, somewhere red. Some had different designs; some had amoeba shapes. I grabbed the blue one and asked her to go inside. She got inside of it, and then that pouch inflated. I could not see her inside, but then I was just tossing it upwards and catching it—that's all I was doing.\n\nThen the next day happened. It was night again. I remember everything, but she did nothing, nor the people around. So I went to her again and did the same thing again, but this time we had a lot more fun. Again, I don't remember what we exactly did, but we did a lot. This time, not only blue neon was there, but there was yellow, red, and green as well.\n\nThen the next night happened again. She forgot everything, and again everything happened again. In the dream, I felt pretty lonely because she was just forgetting me, and it was very frustrating.\n\nSo then the next night happened again, and this time we got into our dancing area. That dancing area had light blue vibes, and the floor was of metal. Everything there was built of metal, and everyone was dancing. It was so good. After dancing, we talked a lot, and then we got to the same area—the blue lake and all the pouches. So I told her to get in the pouch, and she did. But this time, while I was throwing her upwards, there were many electrical lines attached to a transformer, and by mistake, while I was throwing her upwards, I threw her near the transformer. Because that pouch had water, that pouch burst, and I think she died.\n\nThen the next day happened. This time it was day, and I went to the field. The field was empty, and there were patches of grass, but mostly it was sand. So I went in and sat on the sandy floor at the sides of that area and just felt lonely. I was hoping that she was with me.\n\nWhen I woke up, I also felt lonely, even though I knew it was only just a dream. There was a lot that happened other than this story in that dream. Like at one point, she got very annoyed with me, and her smile was mesmerizing. I don't remember her face, but I think she had black hair or brown, something in between. And she had a very curvy figure . She was the same girl from **The Grey Door**  saggy oval face one .\n\nI hope today I get a dream like this or the continuation of this dream because it was too perfect.\n\n#love",
+					"tags": [
+						"love"
+					],
+					"paid": false,
+					"views": 211,
+					"likes": 0
+				},
+				{
+					"id": "20tol5ppgu",
+					"slug": "mucus",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-06T20:12:34Z",
+					"updated": "2026-05-10T20:12:59Z",
+					"title": "Mucus",
+					"body": "I don’t remember much of this dream, but the world around me was filled with mucus, and there were other people present too. The interesting part is that when I woke up, mucus was coming out of my mouth because I had drunk cold water after consuming oil and slept in a cold environment.\n\n#weird #shorts",
+					"tags": [
+						"weird",
+						"shorts"
+					],
+					"paid": false,
+					"views": 354,
+					"likes": 0
+				},
+				{
+					"id": "jpyc20rfe8",
+					"slug": "voice",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-06T20:11:41Z",
+					"updated": "2026-05-10T20:12:39Z",
+					"title": "Voice",
+					"body": "When I take a nap, I sometimes hear a female voice in my dreams, always saying one sentence per dream, right before I wake up. The dream is dark, and there’s no female near me when I wake. One sentence I remember is, “Put the washing machine’s basket on top,” but spoken in my language.\n\n#weird #shorts",
+					"tags": [
+						"weird",
+						"shorts"
+					],
+					"paid": false,
+					"views": 353,
+					"likes": 0
+				},
+				{
+					"id": "zmm5iheum6",
+					"slug": "debian",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-06T20:10:27Z",
+					"updated": "2026-05-10T20:11:57Z",
+					"title": "Debian",
+					"body": "This was a big dream, but I only remember one moment: I was telling someone that in Debian, the extra \"r\" stands for \"distro,\" so it’s pronounced \"Debiarr\" or something like that. At the time in the dream, this spelling and explanation seemed correct. Many other things happened, but this is all I recall.\n\n#weird #shorts",
+					"tags": [
+						"weird",
+						"shorts"
+					],
+					"paid": false,
+					"views": 333,
+					"likes": 0
+				},
+				{
+					"id": "uxacng4tji",
+					"slug": "bell",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2026-05-06T20:09:19Z",
+					"updated": "2026-05-10T20:11:22Z",
+					"title": "Bell",
+					"body": "In this dream, I heard my house doorbell ring. The sleep lasted two hours, but the sound of the bell felt instant, as if time moved incredibly fast in the dream.\n\n#weird #shorts",
+					"tags": [
+						"weird",
+						"shorts"
+					],
+					"paid": false,
+					"views": 334,
+					"likes": 0
+				},
+				{
+					"id": "6slqr3x57d",
+					"slug": "the-chained-gate",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-12-26T20:51:52Z",
+					"updated": "2026-05-10T18:24:07Z",
+					"title": "The Chained Gate",
+					"body": "In this dream I was in a white building and everyone was getting shot and I was running for my life LITERALLY. Then I was behind one of the pillars and a guy came and said there is no purpose of living and I ran. Then he threw a grenade at me and it landed beside me and I ran away, and I think one couple who was there walking past me with the baby was exploded. \n\nThat area looked like a park and everyone was there happy; when he threw a grenade or had a gun in his hand, no one cared about it and the whole park was green with no trees. After I ran like CRAZY I got very, very tired and a group of men grouped me in a circle and told me there is nowhere to go. Then I threw something away and everyone was distracted by it. By the way, there were trees and no one was there except those guys. \n\nSo when they were distracted I ran and I was feeling that tiredness, so much that I could not run anymore, but I dragged myself and I got to a gate which was chained from the top. I pushed it and it opened a little. From that opening I was out of that area and crossed the road. While crossing, they were behind me and then I woke up. I also saw a car coming towards me. Also, that area where I was running had the same tiles and same rocky surface which was the area behind the park of my old house in real life. Also, that gate was also the same old and rusty one.\n\n#weird #nsfl",
+					"tags": [
+						"weird",
+						"nsfl"
+					],
+					"paid": false,
+					"views": 313,
+					"likes": 0
+				},
+				{
+					"id": "lv6y74g38f",
+					"slug": "the-tea-intruder",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-12-26T20:41:05Z",
+					"updated": "2026-05-16T21:39:09Z",
+					"title": "The Black Worm",
+					"body": "In this dream I was in my house, and what I do is whenever I drink water, I always put the empty glass on the refrigerator so I can use it again.  \n\nSo in the dream, I was going to drink a glass of water, and as soon as I took that empty glass, I saw that there was a black worm roaming inside it, with a red aura underneath.  \n\nIn another dream which came to me after this one, I was making tea as usual for me and my parents. When I passed the cup of tea to my mom, I saw this black worm coming out of the tea and swimming to the area near my mother’s side, then swimming back to me and getting into my skin.  \n\nThat worm was not long, but thick in the middle, with an upward curve in the center. It had a shape like this ()—like a kite but with smooth edges. It also had small legs like a frog and no eyes.  \n\n#weird #shorts",
+					"tags": [
+						"weird",
+						"shorts"
+					],
+					"paid": false,
+					"views": 276,
+					"likes": 0
+				},
+				{
+					"id": "w995rlp25g",
+					"slug": "the-burning-feet",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-12-26T20:35:55Z",
+					"updated": "2026-05-16T21:39:34Z",
+					"title": "The Burning Feet",
+					"body": "In this dream I was in a place, and a black van was in front of me. From that black van, two cows slid on a grass slider in front of me.  \n\nThen I said to the guy, whom I did not see, “What about the male cows? They would burn their feet.”  \n\nOut of nowhere, a black cow appeared, and the background shifted to a green area. Nothing was there, and the feet of that black male cow were burning.  \n\n#weird #shorts",
+					"tags": [
+						"weird",
+						"shorts"
+					],
+					"paid": false,
+					"views": 283,
+					"likes": 0
+				},
+				{
+					"id": "76l4a5shhq",
+					"slug": "love-that-hurt-7g5s",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-10-03T20:12:24Z",
+					"updated": "2026-05-10T18:23:10Z",
+					"title": "Car Crash in the Jungle",
+					"body": "In this dream, I was in a black car with the girl from my **Love That Hurt** blog. I was driving down a road covered with green trees on both sides when suddenly we crashed. I don’t know why it happened. I looked outside through the mirror, and it was dark. When I turned to face her, she was full of sweat, breathing deeply. I said to her, “We have to wait till it’s day so I can repair the car.” She blamed me, saying, “It all happened because of you.” I told her we needed to sleep and close the lights because there could be animals outside.\n\nI offered her three options for sleeping arrangements, emphasizing that my sleep was important for our survival:\n\n1. I sleep on the back seat while she sleeps in the front.\n\n2. She sleeps on the back floor while I sleep on the back seat.\n\n3. We both sleep on the back seat, with her on top of me.\n\nShe replied that she would sleep on the floor. I started removing my clothes until I was in my underwear, which was the same color as the accent color I used in my NixOS GNOME setup.\n\nAs we slept, I noticed she was shivering. I took her onto me, and we fell asleep together. Then, I slipped into a dream within the dream. In this inner dream, I was gripping the back seat with both hands, looking at her and saying, “What would happen if I rape you right now? Who is here to save you?” She was crying, but I said, “If I’m not doing anything, then what’s your problem with me?” Then we started kissing, passionately, over and over. We got naked, and she was on the back seat. I was fucking her, our bodies pressed together on the seat. I hugged her tightly and started fucking as hard and fast as I could. She began screaming.\n\nSuddenly, the scene shifted within this inner dream. She was on top of me, sleeping, then woke up and kissed me. Her hair kept getting in the way, so I rolled it up in my hand, and we kissed heavenly, over and over. The moment felt intense. Then, I was on top of her, sucking her right boob. I could feel a strange sensation, like some liquid going through a pipe, a type of pain, but I got nothing from it. I tried the next one, and she was in pain, pushing me away. I put my hand on her mouth, trying as hard as I could, despite her resistance.\n\nAbruptly, I was out of the inner dream. Back in the main dream, she woke up on top of me, shouting, “Who told you to do it? I am shit!” and other things. I was outside, fixing the car, and it was daytime. The jungle around us looked straight out of The Walking Dead series, with brown, crunchy leaves scattered everywhere—eerie and desolate. Then the dream broke, and I woke up.\n\n#love #nsfw\n",
+					"tags": [
+						"love",
+						"nsfw"
+					],
+					"paid": false,
+					"views": 271,
+					"likes": 0
+				},
+				{
+					"id": "p4v1uu0wtj",
+					"slug": "echoes-of-my-father",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-31T18:35:21Z",
+					"updated": "2026-05-06T19:49:53Z",
+					"title": "Echoes of My Father",
+					"body": "This dream started with me at a house which was not mine, but in the dream I knew it was mine. I saw a lady and a kid (boy) going outside. As soon as I took a step outside the door, I was teleported to jail, and I got this info automatically in my mind that they were my wife and kid.  \n\nThen somehow I was outside of jail, and the next second I was in front of a building. There was no elevator in the building, so after a VERY LONG staircase I stopped in front of a house. Then I was teleported to a room where it was the kid and me, and I gave that kid a present. He was happy, but out of nowhere that lady (I think) grabbed my collar from behind, and the next second I was on a staircase crying with laughter—the same laugh I do in real life to decrease my anger or when I can’t break or hit someone. But while I was doing it in the dream, I felt nothing. There was no anger, just refreshment.  \n\nThen I stood up and started walking downwards. At one point there was a group of 4 people (3 boys, 1 girl). One of the boys came to me and offered me a taco from a silver tray full of tacos, which I refused by waving my hand and moved forward.  \n\nBefore the end of the staircase, at the 2nd floor, I met my uncle who had a green Uber bag with not-so-familiar font. He said something, but I forgot. As soon as I touched the ground I was outside of a park which exists in real life—and then I woke up.  \n\nWhen I woke up it was refreshing. Nothing was in my mind, and the memory of the dream was fading away while I was trying to remember it.  \n\n**Things I observed after I woke up**  \n1. This dream came from my fear of becoming like my father  \n2. I knew every single character in this dream  \n3. I knew the building  \n4. My uncle is basically like an Uber food delivery guy (moving presents and food from one house to another)  \n5. The end of the staircase was made of metal, like the floor of a school bus with the same pattern  \n6. The only time I had tacos were after a fest in college in burger king \n\n* Date - 31/8/2025  \n* Time - 8:00 pm  \n* Age - 19  \n* Got it more than 1 time - No  \n\n#life\n\n",
+					"tags": [
+						"life"
+					],
+					"paid": false,
+					"views": 381,
+					"likes": 0
+				},
+				{
+					"id": "hl2dxpp2cl",
+					"slug": "the-three-smiles",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-31T11:55:22Z",
+					"updated": "2026-05-10T18:22:04Z",
+					"title": "The Three Smiles",
+					"body": "In this dream I was in a house which was not mine, possibly from a movie. I was coming towards this girl whose face I don’t remember anymore.  \n\nThere was this white door with 4 mirrors separated by a “+” behind the stairs, and in front was a round table. Everything was decorated in white.  \n\nSuddenly the door started busting. I was going towards the door and saw 3 children in the dark outside wearing yellow shirts and sandy half jeans. They were smiling.  \n\nThen I saw a black revolver on the head of 1 child from the right, and the guy shot 3 bullet through 3 heads.  \n\nI ran to open the door but there was nothing. While I was looking, I saw green grass, a lamp, and another house—while listening to this high-pitch scream which woke me up.  \n\n#life #nsfl\n",
+					"tags": [
+						"life",
+						"nsfl"
+					],
+					"paid": false,
+					"views": 376,
+					"likes": 0
+				},
+				{
+					"id": "yxp2bfgos9",
+					"slug": "love-that-hurt",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-30T20:40:21Z",
+					"updated": "2026-05-06T19:48:49Z",
+					"title": "Love That Hurt",
+					"body": "So this dream came long after this incident that happened in my Taekwondo academy. It was almost 2 months after joining, and I had a crush on one of the coach’s daughters who used to replace him while he taught somewhere else. She was very cute and beautiful.  \n\nThat day I was going to pay the fee, so I asked one of the girls there who I should give the money to, and the girl replied with – “do you think didi is a small girl?” (in my language). I said yes, thinking she was talking about the age. Then I gave the fee and left.  \n\nBut the next day she also started staring at me.  \n\nI thought, *am I being creepy?* because I almost had my eyes on her. But suddenly she grouped everybody and screamed at me with stuff like “do you think I am small? This is how you respect your teachers?” etc.  \n\nAt that time I got that guilty thing inside my throat while I was trying hard not to cry, and I could hear my heart beating in my ears. Everything went silent.  \n\nAnd because I fear stages, my body started to shake since everyone was looking at me. But I controlled myself.  \n\nAfterwards at night, her father called me and said – “did you say she is a small girl? I thought you are a silent, shy guy but you are a bomb.” Also with other non-important stuff, he said that I made her cry.  \n\nThat hurt a lot.  \n\nAfter that call, a few days later, I left the academy. Not because I was feeling bad, but because I felt left out and no one was really talking to me anymore, which felt like shit.  \n\nNow in the dream: I was sleeping on the bed, she came on me. I couldn’t move for some reason, and she started strangling me with her hands while screaming. (High-pitch screams make me angry.)  \n\nAnd then I woke up.  \n\nThat was the whole dream.  \n\n#love\n",
+					"tags": [
+						"love"
+					],
+					"paid": false,
+					"views": 366,
+					"likes": 0
+				},
+				{
+					"id": "5dvtqflrko",
+					"slug": "the-movement",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-30T19:55:48Z",
+					"updated": "2026-05-06T19:47:48Z",
+					"title": "The Movement",
+					"body": "For some reason I don’t remember the dream where my physical IRL body moves, but I notice my movement when I am seeing the dream as well as when I am half awake and half asleep. Also, sometimes I can hear the outside sounds in my dream. Sometimes that outside sound integrates with the dream, like that one time I was asleep in the sleep and an alarm clock (red color) which I do not have IRL started making the same sound my Android clock makes. I woke up from sleep, looked at that alarm clock, and woke up again. And sometimes the noise IRL is so powerful that I break free from the dream. I remember it, but it starts to fade away while I’m waking up.  \n\nWell, till now the movement I had in my body were:  \n\n1. Movement of thumb or index finger / both upside down or reverse — maybe due to I watch a LOT of Instagram reels (mainly left hand).  \n\n2. Movement of whole body like a flick.  \n\n3. Movement of right leg like a flick.  \n\n4. Movement of right hand thumb in a circle. It can be because of Android games, but I use the right thumb for shooting and left for movement.  \n\n#physical\n\n",
+					"tags": [
+						"physical"
+					],
+					"paid": false,
+					"views": 338,
+					"likes": 0
+				},
+				{
+					"id": "2yhhrtt63u",
+					"slug": "the-study",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-30T19:30:58Z",
+					"updated": "2026-05-06T19:46:11Z",
+					"title": "The Study",
+					"body": "So before this dream I had a French poem recitation in front of the class when I was in 5th, I think. And like everybody, I did not know shit. Also, I had stage fear (still have). So for the whole day, I was just repeating it, but it was not going into my mind. Eventually, I was fed up and decided to sleep at night. And in my dream, I was reciting it again and again and again. No one was in my house and I didn’t even notice that. I also didn’t notice I was in a dream.  \n\nWhen I woke up and started to bathe, I suddenly got this whole poem in my head like it was glued to every cell of my brain, and I was very happy. But for some reason, I forgot the poem and started reciting a broken poem when I actually started speaking. And when I got home, I got it again on my tongue.  \n\nLike this, in this dream I was reciting this big-ass answer of a history question repeatedly, which I was reciting in real life the day before the exam. But not like the previous case—I was able to write that shit in the exam alphabet by alphabet.  \n\n**Note** – In both of the dreams above I was walking the whole time while reciting. And IRL I usually walk while reading or repeating repeatedly.  \n\nAnother dream was of this tool I was working on. I got stuck on a problem while coding, but somehow after I completed one of the best sleeps I ever had, my mind was empty and fresh, and I had the solution for the problem.  \n\n#learning\n",
+					"tags": [
+						"learning"
+					],
+					"paid": false,
+					"views": 339,
+					"likes": 0
+				},
+				{
+					"id": "hx6td97lj5",
+					"slug": "the-path",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-27T11:36:02Z",
+					"updated": "2026-05-06T19:44:28Z",
+					"title": "The Path",
+					"body": "So before the dream, I would like to tell you that I used to go for tuitions for maths when I was in school. If I moved forward, there was a house, and at that house lived my crush — she was a hairy stick, but I liked her. Going further ahead, there was a grocery shop run by the mother of the tutor.  \n\nNow in this dream, I looked up and saw this building — just this one yellow-white building — which was at the right side of my crush’s house if my back was facing her house. Until that day, I had been going back and forth and never really looked at that building. But on that fine evening, I think it was 6:00 pm, I was going to the shop to buy something. While returning, I thought of taking that short route, but then to feel the weather I looked up — and I got a déjà vu. I was standing at the same spot, same building, same colors.  \n\nAnd the best part — I suddenly remembered that the weather in my dream was the same weather right now. For some reason, it calmed my mind, and I felt relaxed, like I had gotten the answer to a very tough question.  \n\n#dejavu\n",
+					"tags": [
+						"dejavu"
+					],
+					"paid": false,
+					"views": 325,
+					"likes": 0
+				},
+				{
+					"id": "ebob1ouk4e",
+					"slug": "rss",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-27T11:20:22Z",
+					"updated": "2026-06-25T19:00:16Z",
+					"title": "README",
+					"body": "https://codeberg.org/omniman/personal_stuff/src/branch/main/Blog%20stuff/Tags%20and%20Research%20for%20blogs.txt",
+					"tags": [],
+					"paid": false,
+					"views": 421,
+					"likes": 0
+				},
+				{
+					"id": "34vppd10x1",
+					"slug": "the-death",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-27T11:18:31Z",
+					"updated": "2026-05-06T19:43:16Z",
+					"title": "The Death  ",
+					"body": "In this dream I was in my house with 4 or 5 friends. I knew them very well inside the dream, but as soon as I woke up I forgot who they were. We were standing in a circle in the hall (the relative area of the house), with all of our hands crossed, and all of them were staring at me.  \n\nI turned around and saw yellow light outside, so I went to the balcony door to check the weather (the door was closed). Suddenly a bright yellow/golden + white light started to come in. My eyes couldn’t handle it — I was trying hard to see. Then all of a sudden, I was flying horizontally.  \n\nWhile I was flying, I felt no emotion. Nothing. Maybe content, but I don’t know. As I flew back into the hall, I saw everyone else floating too, all of them still looking at me. I don’t know what happened next, but I woke up with my dick hard, and after that my mind was totally flushed and refreshed. I felt new — like my whole body had reset, the same feeling as getting a 24 hr sleep after not sleeping for a month.  \n\n#life\n\n",
+					"tags": [
+						"life"
+					],
+					"paid": false,
+					"views": 349,
+					"likes": 0
+				},
+				{
+					"id": "bivc4si8aw",
+					"slug": "the-terminator",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-27T11:17:54Z",
+					"updated": "2026-05-06T19:42:18Z",
+					"title": "The Terminator  ",
+					"body": "In this dream I was in a dystopian world. I first saw a black-blue sky with electrical aqua-colored thunderstorms. When I started walking, at my very first step I heard a crunching noise. When I looked down, I realized I was walking on skulls.  \n\nOut of nowhere, it came to my mind that I was in a dream. So I thought — if I imagine something else, maybe this will be gone. While my eyes were closed in the dream, I was thinking about having sex with every girl I ever saw. At the same time, I saw a picture of the Terminator with the gun knob upside against his head. When I opened my eyes, I was in an area I recognized quickly — it was from *Mr. Robot*, where there were A-frame houses. I was standing in the lawn of one of those houses.  \n\nBut then suddenly my father came running toward me from the lawn behind. I saw him by turning my neck, and I started running as fast as I could. While he transformed into something nasty, I again got reminded that this is a dream. So I closed my eyes again, and this time I woke up — with my dick hard as always.  \n\nBefore waking up, something strange also happened. I felt like I was going down while an invisible tower was rising, and when I rose, the tower decreased. I could control my increase and decrease. It was weird but fun. It only happens when I have a fever — my eyes hurt like a lot of stress is on them, and that’s when I get this tower thingy. \n\nAlso, to do it again I tried to make myself understand that I was in a dream by repeating **I am in a dream** again and again. I was able to get into 2 dreams — I remember that I was awake in the dream, but I don’t remember the dream itself.  \n\n#tech\n\n",
+					"tags": [
+						"tech"
+					],
+					"paid": false,
+					"views": 319,
+					"likes": 0
+				},
+				{
+					"id": "iwsv8eeior",
+					"slug": "the-naked-dream",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-27T11:17:30Z",
+					"updated": "2026-05-12T19:51:04Z",
+					"title": "The Naked Dream  ",
+					"body": "This dream took place when I was in school, around the time of **The Love Making** blog. In this dream I woke up in my room naked, and everything felt normal to me. I brushed, took a bath, drank milk, and went out for the bus — all naked. It all happened so quick I didn’t see any family member ***thank god***.  \n\nAfter this I got on the bus and every student was naked. Then I realized I was in the naked world, but for some reason it felt normal to me. When I reached class I saw my crush naked. It was beautiful. I didn’t see anybody else, just her. She didn’t say anything, just kept looking into my eyes.  \n\nBut then I started to feel embarrassed for some reason, like I was feeling shit. Then I woke up — and even after I woke up I was still feeling shit. As usual my dick was hard but there was no ejaculation. I think this dream happened around the time when I discovered masturbation. After this dream I never had any feeling for her, and I still don’t know why.  \n\n#intimate #nsfw\n",
+					"tags": [
+						"intimate",
+						"nsfw"
+					],
+					"paid": false,
+					"views": 340,
+					"likes": 0
+				},
+				{
+					"id": "6i8q0zn8j2",
+					"slug": "the-love-making",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-27T11:17:09Z",
+					"updated": "2026-05-10T18:18:29Z",
+					"title": "The Love Making",
+					"body": "In this dream, I was on the bed with my friend, and I remember clearly that the background, for the first time instead of dark, was pink. In that, I fucked her, but her pussy was not hers—it was someone else's, I think someone from the porn. She also had hairs on her boobs and pussy. I think the reason for the boobs was that her face had a lot of pimples with hair, like an average Indian girl in her puberty.\n\nWe both were in school at that time and we were like best friends. I don't know about her, but I considered her my best friend. She also knew I had a crush on someone.\n\nI think the reason was not her outer beauty (she was ugly) but her inner one. I said a lot of things to her—my personal stuff, which porn we both liked, and a LOT of stuff—which made me feel comfortable and open with her. Also, I think we both were in school from 6th to 12th, so that also might be the reason.\n\nI forgot why I was writing this lol, but I think in that dream, instead of fucking her, I should have talked to her. But that never came in my mind—nothing came in my mind, just fuck fuck fuck.\n\nAlso, after I woke up, my dick was hard, but I did not ejaculate, nor did I have that same feeling I had in **The Kiss** blog.\n\n#love #nsfw",
+					"tags": [
+						"love",
+						"nsfw"
+					],
+					"paid": false,
+					"views": 325,
+					"likes": 0
+				},
+				{
+					"id": "ufo6k3bugx",
+					"slug": "the-kiss",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-27T11:16:44Z",
+					"updated": "2026-05-10T18:18:08Z",
+					"title": "The Kiss  ",
+					"body": "In this dream everything was dark. There were no lips, but when the dream started something touched my lips. I didn’t know what it was, but soon I realized it was lips because there was a tongue in my mouth. I could literally feel the kiss like I was kissing a real person — it was real, like hard real. I can’t describe how real it was, and it lasted the whole night. She was just doing it and I couldn’t back off. It didn’t even come to my mind. Nothing came to my mind.  \n\n**Note:** I have never kissed a person before this dream, and even now while writing this blog.  \n\nNow when I think about it, the only face I could see was my beautiful college friend. I never liked her attitude or her high-pitched voice, but after that night I kinda started to like her. Not really a friend though, because I don’t consider anyone in college my friend — I’d call it survivalist.  \n\nAfter that dream my dick was hard, I ejaculated, and my mind was empty — which felt really good.  \n\n#love #nsfw\n",
+					"tags": [
+						"love",
+						"nsfw"
+					],
+					"paid": false,
+					"views": 304,
+					"likes": 0
+				},
+				{
+					"id": "12wu2663vx",
+					"slug": "the-dark-fall-swing",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-27T11:16:19Z",
+					"updated": "2026-05-16T21:40:40Z",
+					"title": "The Dark Fall - Swing  ",
+					"body": "In this dream everything happened the same as in **The Dark Fall** blog, but before the fall I was on a swing, trying to go as high as possible. As soon as I got almost vertical my bum slipped and I fell. Then I woke up as soon as I touched the ground (I think it was the ground). I remember it was the same park and the same swing where I used to live, and the whole park was empty.  \n\n#fall #shorts\n",
+					"tags": [
+						"fall",
+						"shorts"
+					],
+					"paid": false,
+					"views": 287,
+					"likes": 0
+				},
+				{
+					"id": "hm3cmxzqf9",
+					"slug": "the-dark-fall-hollywood",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-27T11:15:58Z",
+					"updated": "2026-05-16T21:40:23Z",
+					"title": "The Dark Fall - Hollywood  ",
+					"body": "In this dream everything happened the same as in **The Dark Fall** blog, but while I was falling with the air pressure I also saw big buildings on either side of my eyes. Then I woke up as soon as I touched the ground (I think it was the ground).  \n\n#fall #shorts\n",
+					"tags": [
+						"fall",
+						"shorts"
+					],
+					"paid": false,
+					"views": 279,
+					"likes": 0
+				},
+				{
+					"id": "akd7rl12yo",
+					"slug": "the-dark-fall",
+					"appearance": "norm",
+					"language": "en",
+					"rtl": false,
+					"created": "2025-08-27T11:15:28Z",
+					"updated": "2026-05-06T19:37:29Z",
+					"title": "The Dark Fall",
+					"body": "In this dream I was in the dark, everywhere was dark, and I was just walking. Suddenly, I slipped and was going down and down and down—there was nothing but darkness. I felt good and afraid at the same time. Suddenly, I felt something under me, like a change in the pressure of the air beneath me, and my fear grew. Then suddenly I woke up with my heart pounding very fast. I wanted to vomit, my clothes were filled with sweat, and my dick was hard but no juices came out.  \n\nAlso, I got this dream a lot of times, especially when I had a fever, and sometimes when I was awake and asleep at the same time. This thing happens where there is an imaginary pole in the dark and I get bigger, the pole gets smaller—and then the pole gets bigger and I get smaller. I can even control the height. This creates a vomit-like feeling, something totally different but addictive in my throat. I could feel something like we feel when we are in guilt, but much more pleasurable.  \n\n#fall\n",
+					"tags": [
+						"fall"
+					],
+					"paid": false,
+					"views": 283,
+					"likes": 0
+				}
+			],
+			"Format": null
+		}
+	],
+	"posts": []
+}
