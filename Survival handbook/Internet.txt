@@ -4,7 +4,8 @@ This is a reference file. The reader is expected to search, learn more, and veri
 RESOURCES
 ########################################
 
-== Meta Service Websites ==
+<<< Meta Service Websites >>>
+
 https://private.coffee
 https://catgirl.cloud
 https://disroot.org
@@ -21,115 +22,136 @@ https://flossboxin.org.in - India
 https://unredacted.org
 https://anarchists.space
 
-== Cool Websites ==
+<<< Cool Websites >>>
+
 https://bubbles.town/ - Organic blog aggregator
 https://roadmap.sh/ - Developer stuff
 https://www.oberf.org/sobe_stories.htm - Near-death experiences
 
-== Search Engines ==
-SearXNG 
-- Meta search engine.
+<<< Search Engines >>>
+
+SearXNG
+• Meta search engine.
 
 LibreX
-- Lightweight privacy-friendly frontend for multiple search engines.
+• Lightweight privacy-friendly frontend for multiple search engines.
 
 Whoogle
-- Self-hosted Google Search frontend without ads or tracking.
+• Self-hosted Google Search frontend without ads or tracking.
 
 ########################################
 PIRACY
 ########################################
 
-== Books ==
+<<< Books >>>
+
 https://www.reddit.com/r/Piracy/wiki/megathread
 https://mediasavvy.pages.dev
 https://champagne.pages.dev
 https://fmhy.net
 
-> Use a VPN, Tor, or I2P while accessing these sites.
+• Use a VPN, Tor, or I2P while accessing these sites.
 
-== Private Torrent Trackers ==
+<<< Private Torrent Trackers >>>
+
 https://hdvinnie.github.io/Private-Trackers-Spreadsheet/
 
-> Use the books/resources above to find public trackers.
+• Use the books/resources above to find public trackers.
 
-== IPTV ==
+<<< IPTV >>>
+
 https://github.com/iptv-org/awesome-iptv
 https://iptv-org.github.io/
 https://github.com/iptv-org
 
-== Clients (Web Only) ==
-https://libredirect.github.io/ - Redirects almost every centralized website
-https://lucida.to - Music download
-https://github.com/No-Suggest/NoSuggest - Yt client
+<<< Web Clients >>>
 
-> Use Firefox + uBlock Origin while accessing these sites. If clients cannot be found for centralized platforms like Reddit, use Firefox + uBlock Origin instead.
-> Many more clients are available through the Meta Service and Books links above.
+https://libredirect.github.io/ - Redirects almost every centralized website.
+https://lucida.to - Music download.
+https://github.com/No-Suggest/NoSuggest - YouTube client.
+
+• Use Firefox + uBlock Origin while accessing these sites.
+• If clients cannot be found for centralized platforms like Reddit, use Firefox + uBlock Origin instead.
+• Many more clients are available through the Meta Service and Books links above.
 
 ########################################
 BEST OFF-GRID
 ########################################
 
-Reticulum
-- Networking protocol.
-- Other services like torrents and websites have been ported to it.
+<<< Reticulum >>>
 
-Yggdrasil
-- Mesh networking protocol.
-- Does not provide anonymity by itself.
-- Can be used together with Reticulum, I2P, etc.
+• Networking protocol.
+• Other services like torrents and websites have been ported to it.
+
+<<< Yggdrasil >>>
+
+• Mesh networking protocol.
+• Does not provide anonymity by itself.
+• Can be used together with Reticulum, I2P, etc.
 
 ########################################
 BEST ON-GRID / INTERNET
 ########################################
 
+<<< Anonymous Networks >>>
+
 Tor
-- Anonymity network.
+• Anonymity network.
 
 I2P
-- Anonymous network with built-in torrent support.
+• Anonymous network with built-in torrent support.
+
+<<< Communication >>>
 
 SimpleX
 Briar
+Matrix
+XMPP
+ActivityPub
+
+• Privacy-focused and decentralized communication platforms.
+
+<<< Password Managers >>>
 
 Bitwarden
 KeePass
 
+<<< Social / Publishing >>>
+
 Nostr
-- Bypass censorship.
-
-Matrix
-XMPP
-ActivityPub
-- WhatsApp alternatives.
-
-BitTorrent
-- Torrenting over the clearnet, usually with a VPN.
+• Bypass censorship.
 
 RSS
-- One-way content subscription.
+• One-way content subscription.
+
+<<< File Sharing >>>
+
+BitTorrent
+• Torrenting over the clearnet, usually with a VPN.
+
+<<< Maps >>>
 
 Organic Maps (OpenStreetMap)
-- Offline maps.
+• Offline maps.
 
 ########################################
 TECH TIPS
 ########################################
 
-- Never use Bluetooth in an insecure environment, or just never use it. Bluetooth has had vulnerabilities and probably will continue to have them. Especially do not use it during protests.
+• Never use Bluetooth in an insecure environment, or just never use it. Bluetooth has had vulnerabilities and probably will continue to have them. Especially do not use it during protests.
 
-- In situations like protests, use privacy-focused protocols like the ones listed above. Avoid using the cellular network whenever possible, keep your device on Airplane Mode, and a Faraday bag is even better.
+• In situations like protests, use privacy-focused protocols like the ones listed above. Avoid using the cellular network whenever possible, keep your device on Airplane Mode, and a Faraday bag is even better.
 
-- When sending nudes, hide your face and cover your hands to avoid fingerprints. Also avoid showing anything that can identify you.
+• When sending nudes, hide your face and cover your hands to avoid fingerprints. Also avoid showing anything that can identify you.
 
-- If you have ever given your fingerprint, iris scan, face scan (AI can reconstruct facial features with enough images), or any other biometric for legal documents, exams, or anywhere else, never use biometrics to unlock your devices, especially your password manager. Use a hardware security key instead whenever possible.
+• If you have ever given your fingerprint, iris scan, face scan (AI can reconstruct facial features with enough images), or any other biometric for legal documents, exams, or anywhere else, never use biometrics to unlock your devices, especially your password manager. Use a hardware security key instead whenever possible.
 
-- Always buy devices whose bootloader can be unlocked easily and use Linux.
+• Always buy devices whose bootloader can be unlocked easily and use Linux.
 
-- Keep backups of everything, and I mean EVERYTHING, locally. Never trust cloud storage. Encrypt everything on your device before storing it anywhere.
+• Keep backups of everything, and I mean EVERYTHING, locally. Never trust cloud storage. Encrypt everything on your device before storing it anywhere.
 
-- Use Firefox + uBlock Origin. Learn about it and also look into data and ad poisoning extensions/apps.
+• Use Firefox + uBlock Origin. Learn about it and also look into data and ad poisoning extensions/apps.
 
-- Never share controversial opinions, political views, or sensitive content without anonymity or encryption. On platforms like Instagram or Reddit, you could end up with legal trouble depending on where you live, or become the target of harassment because your OPSEC sucks.
+• Never share controversial opinions, political views, or sensitive content without anonymity or encryption. On platforms like Instagram or Reddit, you could end up with legal trouble depending on where you live, or become the target of harassment because your OPSEC sucks.
 
-- Always use a VPN while torrenting. Keep your OPSEC good. Even if others are bad at enforcing things, it only takes one mistake for someone to make your life a lot harder.
+• Always use a VPN while torrenting. Keep your OPSEC good. Even if others are bad at enforcing things, it only takes one mistake for someone to make your life a lot harder.
