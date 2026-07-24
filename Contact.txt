@@ -1,10 +1,74 @@
-@omnimanballs69:matrix.org → Mostly available here
+########################################
+CONTACT
+########################################
 
-omniman@movim.eu → xmpp
+<<< Matrix >>>
 
-lxma://7b786ec33b2d8e81477dbb3fe3571acb:16dcb366896ea8f575e7ea09df684375f443dd5ec997edd50e5cac34d5363239f5e2553c94fce8bfc598e0d65de07e66e263efd585e356c4252c4259a0c6b8d9 → Reticulum
+@omnimanballs69:matrix.org
 
-https://codeberg.org/omniman → Backup of stuff
+• Mostly available here.
 
-nprofile1qqs99tmrk0dkjrfva0evxctgpfjtl6j768p2vejulyrlnp5n6y0dsuqzqqpsgqqqqqqqfh48qm → nostr (no longer use it , got mogged by reticulum)
-** Share your zaps with me 😁 **
+
+<<< XMPP >>>
+
+omniman@movim.eu
+
+
+<<< Reticulum >>>
+
+lxma://7b786ec33b2d8e81477dbb3fe3571acb:16dcb366896ea8f575e7ea09df684375f443dd5ec997edd50e5cac34d5363239f5e2553c94fce8bfc598e0d65de07e66e263efd585e356c4252c4259a0c6b8d9
+
+
+<<< Codeberg >>>
+
+https://codeberg.org/omniman
+
+• Backup of my projects, notes, and other files.
+
+
+<<< Nostr >>>
+
+nprofile1qqs99tmrk0dkjrfva0evxctgpfjtl6j768p2vejulyrlnp5n6y0dsuqzqqpsgqqqqqqqfh48qm
+
+• No longer used. Got mogged by Reticulum.
+• Share your zaps with me 😁
+
+
+########################################
+RSS
+########################################
+
+<<< Dream Diary >>>
+
+https://text.tchncs.de/the-dream-diary/feed/
+
+
+<<< Agent >>>
+
+https://text.tchncs.de/agent/feed/
+
+
+########################################
+TAGS
+########################################
+
+<<< Personal >>>
+
+• personal
+
+
+<<< Dream >>>
+
+• fall       : Dreams contain falls.
+• love       : Dreams contain sexual stuff.
+• intimate   : Not sexual, but contains nudity.
+• tech       : Technology-related.
+• life       : Hard to describe.
+• dejavu     : Dream later happened in real life.
+• learning   : Learned something useful in a dream.
+• physical   : Real-life body movement while dreaming.
+• weird      : Just weird stuff.
+• shorts     : Short dreams.
+• organic    : Written without AI.
+• nsfw       : Sexual content.
+• nsfl       : Gore / Dexter-level content.
