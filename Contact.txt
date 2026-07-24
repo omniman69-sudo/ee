@@ -16,6 +16,9 @@ lxma://7b786ec33b2d8e81477dbb3fe3571acb:16dcb366896ea8f575e7ea09df684375f443dd5e
 https://codeberg.org/omniman
 • Backup of my projects, notes, and other files.
 
+https://omniman.codeberg.page/
+• Personal Website
+
 <<< Nostr >>>
 nprofile1qqs99tmrk0dkjrfva0evxctgpfjtl6j768p2vejulyrlnp5n6y0dsuqzqqpsgqqqqqqqfh48qm
 • No longer used. Got mogged by Reticulum.
@@ -24,6 +27,8 @@ nprofile1qqs99tmrk0dkjrfva0evxctgpfjtl6j768p2vejulyrlnp5n6y0dsuqzqqpsgqqqqqqqfh4
 ########################################
 RSS
 ########################################
+
+• Remove `/feed/` from the RSS links below if you want to visit the website instead of the feed.
 
 <<< Dream Diary >>>
 https://text.tchncs.de/the-dream-diary/feed/
