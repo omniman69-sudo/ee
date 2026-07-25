@@ -1,6 +1,0 @@
-** Language **
-Hindi 
-English 
-
-** Programming language **
-html 
