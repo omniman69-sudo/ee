@@ -101,8 +101,13 @@ I2P
 Matrix
 XMPP
 ActivityPub
+At protocol
 
-• Privacy-focused and decentralized communication protocols.
+Nostr
+• Bypass censorship.
+
+RSS
+• One-way content subscription.
 
 < Apps >
 
@@ -114,25 +119,18 @@ Briar
 Bitwarden
 KeePass
 
-<<< Social / Publishing >>>
-
-Nostr
-• Bypass censorship.
-
-RSS
-• One-way content subscription.
-
 <<< File Sharing >>>
 
 BitTorrent
 • Torrenting over the clearnet, usually with a VPN.
+• Other services have their own version of torrent 
 
 <<< Maps >>>
 
 Organic Maps (OpenStreetMap)
 • Offline maps.
 
-<<< Food & Product Information >>>
+<<< Food >>>
 
 OpenFoodFacts
 • Open database of food products, ingredients, nutrition, additives, and health information.
