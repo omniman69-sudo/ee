@@ -87,27 +87,33 @@ BEST ON-GRID / INTERNET
 ########################################
 
 <<< Anonymous Networks >>>
+
 Tor
 • Anonymity network.
 
 I2P
 • Anonymous network with built-in torrent support.
 
-<<< Communication >>>
-SimpleX
-Briar
+<<< Communication Protocols >>>
 
 Matrix
 XMPP
 ActivityPub
 
-• Privacy-focused and decentralized communication platforms.
+• Privacy-focused and decentralized communication protocols.
+
+<<< Communication Apps >>>
+
+SimpleX
+Briar
 
 <<< Password Managers >>>
+
 Bitwarden
 KeePass
 
 <<< Social / Publishing >>>
+
 Nostr
 • Bypass censorship.
 
@@ -115,15 +121,17 @@ RSS
 • One-way content subscription.
 
 <<< File Sharing >>>
+
 BitTorrent
 • Torrenting over the clearnet, usually with a VPN.
 
 <<< Maps >>>
+
 Organic Maps (OpenStreetMap)
 • Offline maps.
 
 <<< Food & Product Information >>>
+
 OpenFoodFacts
 • Open database of food products, ingredients, nutrition, additives, and health information.
 • Scan barcodes to look up products and contribute new ones.
-
