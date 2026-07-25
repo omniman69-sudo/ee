@@ -94,7 +94,9 @@ Tor
 I2P
 • Anonymous network with built-in torrent support.
 
-<<< Communication Protocols >>>
+<<< Communication >>>
+
+< Protocols >
 
 Matrix
 XMPP
@@ -102,7 +104,7 @@ ActivityPub
 
 • Privacy-focused and decentralized communication protocols.
 
-<<< Communication Apps >>>
+< Apps >
 
 SimpleX
 Briar
