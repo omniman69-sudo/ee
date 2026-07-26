@@ -112,6 +112,9 @@ RSS
 < Apps >
 
 SimpleX
+• Takes a lot of battery 
+• More secure then briar
+
 Briar
 
 <<< Password Managers >>>
