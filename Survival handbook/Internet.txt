@@ -138,3 +138,10 @@ Organic Maps (OpenStreetMap)
 OpenFoodFacts
 • Open database of food products, ingredients, nutrition, additives, and health information.
 • Scan barcodes to look up products and contribute new ones.
+
+<<< Exercise / Fitness >>>
+
+https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment
+
+• Most open-source fitness apps are too complicated or hard to understand.
+• Use YouTube or an app like this to learn the exercises, then do them yourself.
