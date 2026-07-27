@@ -24,7 +24,7 @@ https://anarchists.space
 <<< Cool Websites >>>
 https://bubbles.town/ - Organic blog aggregator
 https://roadmap.sh/ - Developer stuff
-https://www.oberf.org/sobe_stories.htm - Near-death experiences
+https://www.oberf.org/sobe_stories.htm - Near death experiences
 
 <<< Search Engines >>>
 SearXNG
@@ -58,6 +58,10 @@ https://github.com/iptv-org/awesome-iptv
 https://iptv-org.github.io/
 https://github.com/iptv-org
 
+<<< Android Mods >>>
+https://morphe.software/
+• Install and manage modified Android apps from multiple repositories.
+
 <<< Web Clients >>>
 https://libredirect.github.io/ - Redirects almost every centralized website.
 https://lucida.to - Music download.
@@ -72,12 +76,10 @@ BEST OFF-GRID
 ########################################
 
 <<< Reticulum >>>
-
 • Networking protocol.
 • Other services like torrents and websites have been ported to it.
 
 <<< Yggdrasil >>>
-
 • Mesh networking protocol.
 • Does not provide anonymity by itself.
 • Can be used together with Reticulum, I2P, etc.
@@ -87,7 +89,6 @@ BEST ON-GRID / INTERNET
 ########################################
 
 <<< Anonymous Networks >>>
-
 Tor
 • Anonymity network.
 
@@ -95,9 +96,7 @@ I2P
 • Anonymous network with built-in torrent support.
 
 <<< Communication >>>
-
 < Protocols >
-
 Matrix
 XMPP
 ActivityPub
@@ -110,7 +109,6 @@ RSS
 • One-way content subscription.
 
 < Apps >
-
 SimpleX
 • Takes a lot of battery 
 • More secure then briar
@@ -118,29 +116,24 @@ SimpleX
 Briar
 
 <<< Password Managers >>>
-
 Bitwarden
 KeePass
 
 <<< File Sharing >>>
-
 BitTorrent
 • Torrenting over the clearnet, usually with a VPN.
 • Other services have their own version of torrent 
 
 <<< Maps >>>
-
 Organic Maps (OpenStreetMap)
 • Offline maps.
 
 <<< Food >>>
-
 OpenFoodFacts
 • Open database of food products, ingredients, nutrition, additives, and health information.
 • Scan barcodes to look up products and contribute new ones.
 
 <<< Exercise / Fitness >>>
-
 https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment
 
 • Most open-source fitness apps are too complicated or hard to understand.
