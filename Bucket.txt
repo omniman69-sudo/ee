@@ -42,6 +42,7 @@ Make a privacy tool
 Create a famous podcast / radio show
 Make a survival guide
 Create my personal website
+create tekken like game
 
 <<< Creative >>>
 
@@ -59,18 +60,14 @@ DONE
 ########################################
 
 <<< Skills >>>
-
 < Languages >
-
 Hindi
 English
 
 < Programming Languages >
-
 HTML
 
 < Writing >
-
 Personal
 Tech
 Dream
