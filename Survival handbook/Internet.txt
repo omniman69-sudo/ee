@@ -116,8 +116,9 @@ SimpleX
 Briar
 
 <<< Password Managers >>>
-Bitwarden
+Bitwarden / Vaultwarden
 KeePass
+Aliasvault - ai
 
 <<< File Sharing >>>
 BitTorrent
