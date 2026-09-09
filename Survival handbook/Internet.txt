@@ -127,7 +127,7 @@ BitTorrent
 • Other services have their own version of torrent 
 
 <<< Maps >>>
-Organic Maps (OpenStreetMap)
+Comaps (OpenStreetMap)
 • Offline maps.
 
 <<< Food >>>
