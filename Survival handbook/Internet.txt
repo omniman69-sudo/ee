@@ -25,6 +25,7 @@ https://anarchists.space
 https://bubbles.town/ - Organic blog aggregator
 https://roadmap.sh/ - Developer stuff
 https://www.oberf.org/sobe_stories.htm - Near death experiences
+https://news.ycombinator.com , https://lobste.rs - Reddit for nerds
 
 <<< Search Engines >>>
 SearXNG
@@ -140,3 +141,18 @@ https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipme
 
 • Most open-source fitness apps are too complicated or hard to understand.
 • Use YouTube or an app like this to learn the exercises, then do them yourself.
+
+<<< Money >>>
+Cashu
+• Offline digital cash.
+
+Lightning
+• Like UPI, but using Bitcoin's Lightning Network.
+• Both Cashu and Lightning can be used with Nostr.
+
+########################################
+SHIT
+########################################
+Keet
+• Peer-to-peer communication app.
+• Uses Pear Runtime / Holepunch technology.
