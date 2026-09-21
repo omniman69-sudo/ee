@@ -104,7 +104,7 @@ XMPP
 ActivityPub
 At protocol
 
-Nostr
+Nostr - BEST ALL IN 1 PROTOCOL 
 • Bypass censorship.
 
 RSS
