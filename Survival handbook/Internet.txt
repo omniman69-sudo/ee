@@ -150,6 +150,9 @@ Lightning
 • Like UPI, but using Bitcoin's Lightning Network.
 • Both Cashu and Lightning can be used with Nostr.
 
+Bitcoin 
+Monero - Privacy 
+
 ########################################
 SHIT
 ########################################
