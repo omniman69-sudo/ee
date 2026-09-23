@@ -153,6 +153,10 @@ Lightning
 Bitcoin 
 Monero - Privacy 
 
+<<< Utility >>>
+Compass
+• Digital compass for finding directions.
+
 ########################################
 SHIT
 ########################################
