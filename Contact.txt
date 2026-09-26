@@ -1,17 +1,10 @@
 ########################################
 CONTACT
 ########################################
-***** Available *****
-<<< Matrix >>>
-@omnimanballs69:matrix.org
-
 <<< Nostr >>>
 nprofile1qqs99tmrk0dkjrfva0evxctgpfjtl6j768p2vejulyrlnp5n6y0dsuqzqqpsgqqqqqqqfh48qm
 • Share your zaps with me 😁
 
-***** Sometimes Available *****
-<<< XMPP >>>
-omniman@movim.eu
 
 <<< Reticulum >>>
 lxma://7b786ec33b2d8e81477dbb3fe3571acb:16dcb366896ea8f575e7ea09df684375f443dd5ec997edd50e5cac34d5363239f5e2553c94fce8bfc598e0d65de07e66e263efd585e356c4252c4259a0c6b8d9
@@ -22,18 +15,6 @@ https://codeberg.org/omniman
 
 https://omniman.codeberg.page/
 • Personal Website
-
-########################################
-RSS
-########################################
-
-• Remove `/feed/` from the RSS links below if you want to visit the website instead of the feed.
-
-<<< Dream Diary >>>
-https://text.tchncs.de/the-dream-diary/feed/
-
-<<< Agent >>>
-https://text.tchncs.de/agent/feed/
 
 ########################################
 TAGS
