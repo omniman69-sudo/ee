@@ -1,0 +1,21 @@
+
+<<< Personal >>>
+• personal
+
+<<< Dream >>>
+• fall       : Dreams contain falls.
+• love       : Dreams contain sexual stuff.
+• intimate   : Not sexual, but contains nudity.
+• tech       : Technology-related.
+• life       : Hard to describe.
+• dejavu     : Dream later happened in real life.
+• learning   : Learned something useful in a dream.
+• physical   : Real-life body movement while dreaming.
+• weird      : Just weird stuff.
+
+• shorts     : Short dreams.
+
+• organic    : Written without AI.
+
+• nsfw       : Sexual content.
+• nsfl       : Gore / Dexter-level content.
