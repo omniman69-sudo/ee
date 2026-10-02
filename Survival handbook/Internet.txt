@@ -103,7 +103,6 @@ I2P
 Matrix
 XMPP
 ActivityPub
-At protocol
 
 Nostr - BEST ALL IN 1 PROTOCOL 
 • Bypass censorship.
@@ -161,6 +160,8 @@ Compass
 ########################################
 SHIT
 ########################################
+At protocol
+
 Keet
 • Peer-to-peer communication app.
 • Uses Pear Runtime / Holepunch technology.
