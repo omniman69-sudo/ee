@@ -1,24 +1,3 @@
-########################################
-TECH TIPS
-########################################
-
-• Never use Bluetooth in an insecure environment, or just never use it. Bluetooth has had vulnerabilities and probably will continue to have them. Especially do not use it during protests.
-
-• In situations like protests, use privacy-focused protocols like the ones listed above. Avoid using the cellular network whenever possible, keep your device on Airplane Mode, and a Faraday bag is even better.
-
-• When sending nudes, hide your face and cover your hands to avoid fingerprints. Also avoid showing anything that can identify you.
-
-• If you have ever given your fingerprint, iris scan, face scan (AI can reconstruct facial features with enough images), or any other biometric for legal documents, exams, or anywhere else, never use biometrics to unlock your devices, especially your password manager. Use a hardware security key instead whenever possible.
-
-• Always buy devices whose bootloader can be unlocked easily and use Linux.
-
-• Keep backups of everything, and I mean EVERYTHING, locally. Never trust cloud storage. Encrypt everything on your device before storing it anywhere.
-
-• Use Firefox + uBlock Origin. Learn about it and also look into data and ad poisoning extensions/apps.
-
-• Never share controversial opinions, political views, or sensitive content without anonymity or encryption. On platforms like Instagram or Reddit, you could end up with legal trouble depending on where you live, or become the target of harassment because your OPSEC sucks.
-
-• Always use a VPN while torrenting. Keep your OPSEC good. Even if others are bad at enforcing things, it only takes one mistake for someone to make your life a lot harder.
 
 
 
