@@ -68,14 +68,6 @@ Look straight down from a great height with my eyes wide open (fear of heights)
 DONE
 ########################################
 
-<<< Skills >>>
-< Languages >
-Hindi
-English
-
-< Programming Languages >
-#HTML
-
 < Writing >
 Personal
 Tech
