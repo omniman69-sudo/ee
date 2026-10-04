@@ -1,6 +1,3 @@
-########################################
-CONTACT
-########################################
 <<< Nostr >>>  
 npub122hk8v7mdyxje6ljcdsksznyhl49a5wz5en9e7g8lxrf85g7mpcqa5nhhp@uid.ovh — EMAIL ADDRESS 
 agent69@uid.ovh — Another email address to same inbox
