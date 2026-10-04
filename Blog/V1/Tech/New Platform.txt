@@ -1,0 +1,8 @@
+# New Platform
+HELLO everyone, I want to tell you all that this blog is shifting to Nostr. All the people that subscribe to my blog or read RSS, pls use Ditto or YakiHonne-type apps to read them using the npub in the Contact.txt in my Codeberg or README. 
+
+this website will delete within 6 months if I don’t forget 
+
+Bye Bye
+
+#tech
