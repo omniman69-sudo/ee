@@ -167,6 +167,7 @@ Keet and its protocol
 Matrix
 
 RSS
+Email and its protocol
 
 ########################################
 KEEPING AN EYE ON
