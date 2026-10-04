@@ -100,15 +100,13 @@ I2P
 
 <<< Communication >>>
 < Protocols >
-Matrix
+
 XMPP
-ActivityPub
 
 Nostr - BEST ALL IN 1 PROTOCOL 
-• Bypass censorship.
-
-RSS
-• One-way content subscription.
+[ Sub Protocol ]
+---- Concord / Armanda
+---- Marmot / WhiteNoise
 
 < Apps >
 SimpleX
@@ -161,14 +159,19 @@ Compass
 SHIT
 ########################################
 At protocol
+ActivityPub
+Keet and its protocol
+Matrix
 
-Keet
-• Peer-to-peer communication app.
-• Uses Pear Runtime / Holepunch technology.
+RSS
 
 ########################################
 KEEPING AN EYE ON
 ########################################
 Freenet
 FIPS.net
+
+https://cordn.net/
+https://ghostly.tools/
+https://zillion.chat/
 
