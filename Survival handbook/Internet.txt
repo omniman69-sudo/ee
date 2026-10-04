@@ -79,8 +79,11 @@ BEST OFF-GRID
 ########################################
 
 <<< Reticulum >>>
-• Networking protocol.
-• Other services like torrents and websites have been ported to it.
+[ Sub Protocol build on top ]
+---- LXMF
+---- LXST
+---- Nomad Network
+---- RRC
 
 <<< Yggdrasil >>>
 • Mesh networking protocol.
@@ -100,13 +103,13 @@ I2P
 
 <<< Communication >>>
 < Protocols >
-
 XMPP
 
 Nostr - BEST ALL IN 1 PROTOCOL 
-[ Sub Protocol ]
+[ Sub Protocol build on top ]
 ---- Concord / Armanda
 ---- Marmot / WhiteNoise
+---- Nostr mail
 
 < Apps >
 SimpleX
@@ -174,4 +177,6 @@ FIPS.net
 https://cordn.net/
 https://ghostly.tools/
 https://zillion.chat/
+
+Phantom retiukum
 
