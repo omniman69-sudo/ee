@@ -9,20 +9,20 @@ Push teeth inwards everyday after waking up
 <<< WEEK 1 >>>
 
 Monday - Bath + Hair Wash + Sleep
-Tuesday - Brush + Tea
+Tuesday - Brush + Tea + Writing
 Wednesday - Bath + Sleep
-Thursday - Brush + Tea
+Thursday - Brush + Tea + Writing
 Friday - Bath + Hair Wash + Sleep
-Saturday - Brush + Tea
+Saturday - Brush + Tea + Writing
 Sunday - Rest
 
 <<< WEEK 2 >>>
 
-Monday - Brush + Tea
+Monday - Brush + Tea + Writing
 Tuesday - Bath + Hair Wash + Sleep
-Wednesday - Brush + Tea
+Wednesday - Brush + Tea + Writing
 Thursday - Bath + Sleep
-Friday - Brush + Tea
+Friday - Brush + Tea + Writing
 Saturday - Bath + Hair Wash + Sleep
 Sunday - Rest
 
@@ -32,22 +32,22 @@ REVERSE
 
 <<< WEEK 1 >>>
 
-Monday - Brush + Tea
+Monday - Brush + Tea + Writing
 Tuesday - Bath + Hair Wash + Sleep
-Wednesday - Brush + Tea
+Wednesday - Brush + Tea + Writing
 Thursday - Bath + Sleep
-Friday - Brush + Tea
+Friday - Brush + Tea + Writing
 Saturday - Bath + Hair Wash + Sleep
 Sunday - Rest
 
 <<< WEEK 2 >>>
 
 Monday - Bath + Hair Wash + Sleep
-Tuesday - Brush + Tea
+Tuesday - Brush + Tea + Writing
 Wednesday - Bath + Sleep
-Thursday - Brush + Tea
+Thursday - Brush + Tea + Writing
 Friday - Bath + Hair Wash + Sleep
-Saturday - Brush + Tea
+Saturday - Brush + Tea + Writing
 Sunday - Rest
 
 Use the normal schedule one month, then the reverse schedule the next month.
