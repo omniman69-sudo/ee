@@ -1,4 +1,4 @@
-#This is just for reference. Users are expected to deep dive into these topics themselves.
+# This is just for reference. Users are expected to deep dive into these topics themselves.
 
 <<< Protests >>>
 
