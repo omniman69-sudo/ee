@@ -31,11 +31,8 @@ https://news.ycombinator.com , https://lobste.rs - Reddit for nerds
 SearXNG
 • Meta search engine.
 
-LibreX
+LibreY
 • Lightweight privacy-friendly frontend for multiple search engines.
-
-Whoogle
-• Self-hosted Google Search frontend without ads or tracking.
 
 ########################################
 PIRACY
@@ -135,7 +132,6 @@ Comaps (OpenStreetMap)
 <<< Food >>>
 OpenFoodFacts
 • Open database of food products, ingredients, nutrition, additives, and health information.
-• Scan barcodes to look up products and contribute new ones.
 
 <<< Exercise / Fitness >>>
 https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment
@@ -156,7 +152,6 @@ Monero - Privacy
 
 <<< Utility >>>
 Compass
-• Digital compass for finding directions.
 
 ########################################
 SHIT
@@ -168,6 +163,8 @@ Matrix
 
 RSS
 Email and its protocol
+
+Whoogle - dead
 
 ########################################
 KEEPING AN EYE ON
