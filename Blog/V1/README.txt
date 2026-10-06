@@ -1,0 +1,6 @@
+Moving from Writefreely to Nostr because Nostr superior
+
+
+i want you to open the zip ignore agent folder all the 73 txt files in zip , your job is to read each one of them and correct mistakes in them if any dont change the emotions or meaning of the sentences or any word just because its inappropriate , keep it raw as usual but fix grammatical or common mistakes . and replace tags that are at the end of the blog and if the blog is of tech , thought , personal , dream  add tech ... etc.. according to what you find suitable but only add 1 in 1 blog and it is necessary  also add either the blog is nsfw or nsfl if the blog is neither of them then dont add any of them you can also add both of them as well . also rename all the files to the title of the blog without - _ or any kind of symbol except spaces like "father son.txt" then create folders and put each blog in their respective tag catagory and if it has nsfw or nsfl then create another catagory inside the outer catagory and put stuff their if it has no catagory then put it in parent catagory and if it has both then put it in nsfw
+
+Wrote this to speed up the process because i am lazy now goona read all blogs and hopfully no mistakes will be their
