@@ -1,0 +1,5 @@
+= My Index
+:toc:
+:toclevels: 2
+
+include::Bucket.adoc[]
