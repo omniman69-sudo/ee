@@ -251,4 +251,72 @@ https://zillion.chat/
 
 Phantom Reticulum
 
+// ########################################
+== Other Stack (not complete placeholder)
+// ########################################
+
+=== Languages
+
+* English -> 1
+* Hindi
+
+=== Programming Languages
+
+* Kotlin
+
+=== Markup Languages
+
+* Markdown
+* AsciiDoc -> 1
+* HTML
+
+=== Tools and Technologies
+
+==== Version Control
+
+* Git
+* Jujutsu (jj)
+
+==== Operating Systems
+
+* Linux
+* NixOS
+* Fedora
+* Arch Linux
+
+==== Containers
+
+* Docker
+* Podman
+
+==== Development Environment
+
+* Termux
+* Toolbox
+
+// ########################################
+== Cook
+// ########################################
+
+=== Milk Soda
+
+**Ingredients**
+
+* Coke, Pepsi, or any black soda
+* Milk, preferably full cream or toned
+
+**Optional**
+
+* Ice cream
+
+**Preparation**
+
+Add milk first, preferably full cream or toned, then slowly add the soda to see it getting mixed. It's so peaceful to watch, like yin and yang.
+
+If you want, add ice cream on top. Vanilla usually tastes good.
+
+If you want it more watery, add less milk. I like it thick.
+
+
+
 
