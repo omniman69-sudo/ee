@@ -1,0 +1,254 @@
+// ########################################
+== Introduction
+// ########################################
+
+This is my personal day-to-day survival guide, inspired by the Survival Manual app on F-Droid. It is not as comprehensive as that app, but I hope it will still be useful to both you and me.
+
+Everything written here does not necessarily represent my personal beliefs or opinions. The content is written from a survival perspective. Some advice may seem racist, sexist, homophobic, or otherwise offensive when taken out of context. The intention is to prioritize survival rather than social or political views.
+
+If you find any inaccuracies or have suggestions for improvements, contact me through one of the accounts listed in `contact.adoc`.
+
+// ########################################
+== Schedule
+// ########################################
+
+PURPOSE -> Do things I normally do on different days so my body does not get used to one fixed pattern.
+
+=== 2 Week Schedule
+
+SLEEP -> I will either sleep from 3 AM to 6 AM or from 3 PM to 6 PM.
+
+I might not follow this regularly if I have to mainly stay awake at night for work, but then again, one day everyone has to sleep, why not stay awake as long as possible.
+
+Push teeth inwards everyday after waking up.
+
+==== Week 1
+
+* Monday - Bath + Hair Wash
+* Tuesday - Brush + Tea/Soda + Writing
+* Wednesday - Bath
+* Thursday - Brush + Tea/Soda + Writing
+* Friday - Bath + Hair Wash
+* Saturday - Brush + Tea/Soda + Writing
+* Sunday - Rest
+
+==== Week 2
+
+* Monday - Brush + Tea/Soda + Writing
+* Tuesday - Bath + Hair Wash
+* Wednesday - Brush + Tea/Soda + Writing
+* Thursday - Bath
+* Friday - Brush + Tea/Soda + Writing
+* Saturday - Bath + Hair Wash
+* Sunday - Rest
+
+=== Reverse
+
+==== Week 1
+
+* Monday - Brush + Tea/Soda + Writing
+* Tuesday - Bath + Hair Wash
+* Wednesday - Brush + Tea/Soda + Writing
+* Thursday - Bath
+* Friday - Brush + Tea/Soda + Writing
+* Saturday - Bath + Hair Wash
+* Sunday - Rest
+
+==== Week 2
+
+* Monday - Bath + Hair Wash
+* Tuesday - Brush + Tea/Soda + Writing
+* Wednesday - Bath
+* Thursday - Brush + Tea/Soda + Writing
+* Friday - Bath + Hair Wash
+* Saturday - Brush + Tea/Soda + Writing
+* Sunday - Rest
+
+Use the normal schedule one month, then the reverse schedule the next month.
+
+=== Exercise
+
+Started from 26 July 2026. Before that, I only walked my whole life.
+
+No workout on Sunday because people are there and I can't do stuff if someone is watching me.
+
+Every day different exercise + walking as usual whenever i want.
+
+* Push-ups - 69
+* Plank - 69 min.
+* Pull ups - 69
+* Running - 69 min.
+
+// ########################################
+== Resources
+// ########################################
+
+This is a reference file. The reader is expected to search, learn more, and verify the information themselves.
+
+=== Meta Service Websites
+
+* https://private.coffee
+* https://catgirl.cloud
+* https://disroot.org
+* https://tchncs.de
+* https://riseup.net
+* https://nixnet.services
+* https://07f.de
+* https://4d2.org
+* https://digitalprivacy.diy
+* https://pub.solar
+* https://envs.net
+* https://bladerunn.in
+* https://flossboxin.org.in -> India
+* https://unredacted.org
+* https://anarchists.space
+
+=== Cool Websites
+
+* https://bubbles.town/ -> Organic blog aggregator
+* https://roadmap.sh/ -> Developer stuff
+* https://www.oberf.org/sobe_stories.htm -> Near death experiences
+* https://news.ycombinator.com , https://lobste.rs -> Reddit for nerds
+
+// ########################################
+== Piracy
+// ########################################
+
+=== Books
+
+* https://www.reddit.com/r/Piracy/wiki/megathread
+* https://mediasavvy.pages.dev
+* https://champagne.pages.dev
+* https://fmhy.net
+* https://tbcpl.lol
+
+=== Private Torrent Trackers
+
+* https://hdvinnie.github.io/Private-Trackers-Spreadsheet/
+** Use the books/resources above to find public trackers.
+
+=== IPTV
+
+* https://github.com/iptv-org/awesome-iptv
+* https://iptv-org.github.io/
+* https://github.com/iptv-org
+
+=== Android Mods
+
+* https://morphe.software/
+** Install and manage modified Android apps from multiple repositories.
+
+* PipePipe and Metrolist -> YT and YT Music
+
+=== Web Clients
+
+* https://libredirect.github.io/ -> Redirects almost every centralized website.
+* https://lucida.to -> Music download.
+* https://github.com/No-Suggest/NoSuggest -> YouTube client.
+** If clients cannot be found for centralized platforms like Reddit, use Firefox + uBlock Origin instead.
+** Many more clients are available through the Meta Service and Books links above.
+
+// ########################################
+== Best Stack
+// ########################################
+
+=== Search Engines
+
+* SearXNG
+* LibreY -> 1
+* Websurfx
+
+Whoogle -> dead
+
+=== Off-Grid
+
+* Reticulum -> 1
+** LXMF
+** LXST
+** Nomad Network
+** RRC
+
+* Yggdrasil
+
+=== On-Grid / Internet
+
+==== Networks
+
+* I2P -> 1
+* Tor -> Bad reputation 
+
+==== Communication Protocols
+
+* XMPP -> 2
+
+* Nostr -> BEST ALL IN 1 PROTOCOL
+** Concord / Armanda
+** Marmot / WhiteNoise
+** Nostr mail
+
+* AT Protocol
+* ActivityPub
+* Keet and its protocol
+* Matrix
+* RSS -> 3
+* Email and its protocol
+
+==== Apps
+
+* SimpleX -> 1
+* Briar
+
+==== Password Managers
+
+* Bitwarden / Vaultwarden -> 1
+* KeePass
+* Aliasvault - AI
+
+==== File Sharing
+
+* BitTorrent
+
+==== Maps
+
+* CoMaps (OpenStreetMap)
+
+==== Food
+
+* OpenFoodFacts
+
+==== Exercise / Fitness
+
+* https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment
+** Most open-source fitness apps are too complicated or hard to understand.
+** Use YouTube or an app like this to learn the exercises, then do them yourself.
+
+==== Money
+
+* Cashu
+** Offline digital cash.
+
+* Lightning -> 1
+** Like UPI, but using Bitcoin's Lightning Network.
+** Both Cashu and Lightning can be used with Nostr.
+
+* Bitcoin
+* Monero 
+
+==== Utility
+
+* Compass
+
+// ########################################
+== Keeping an Eye On
+// ########################################
+
+Freenet
+FIPS.net
+
+https://cordn.net/
+https://ghostly.tools/
+https://zillion.chat/
+
+Phantom Reticulum
+
+
