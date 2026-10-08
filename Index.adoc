@@ -1,5 +1,6 @@
-= My Index
+= Agent.69 Everything Diary
 :toc:
 :toclevels: 2
+:toc-title: Content List
 
 include::Bucket.adoc[]
