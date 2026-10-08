@@ -1,0 +1,36 @@
+== Nostr
+
+npub122hk8v7mdyxje6ljcdsksznyhl49a5wz5en9e7g8lxrf85g7mpcqa5nhhp@uid.ovh -> EMAIL ADDRESS
+
+agent69@uid.ovh -> Another email address to same inbox
+
+* You can use this one if you want but their is no gurrenty if i will receive your mail
+
+* Send mail to contact pls dont dm on address . Paste the address in your mail app . I know it looks long and retarded but it works and check SPAM for reply as google , outlook etc... thinks its a spam account . Don't attach any kind of media only text i am not opening them .
+
+https://armada.buzz/npub122hk8v7mdyxje6ljcdsksznyhl49a5wz5en9e7g8lxrf85g7mpcqa5nhhp -> For dm (NIP - 17)
+
+https://armada.buzz/invite/naddr1qvzqqqyzz5pzqck4pqttjtv3rjynfg333g68h3y8mtuuy5vwel29h5nt72dfwwk3qqqqjgu2kx#BAHD06ir6Cf2UoRvzBE2G16K -> My group
+
+marmot://profile/npub122hk8v7mdyxje6ljcdsksznyhl49a5wz5en9e7g8lxrf85g7mpcqa5nhhp -> For very private dm
+
+* Because of how marmot works if you want to be added in my group contact me through whitenoise
+
+https://ditto.pub/npub122hk8v7mdyxje6ljcdsksznyhl49a5wz5en9e7g8lxrf85g7mpcqa5nhhp
+
+* Send me cryto 😁 wallet attached to account
+* Blogs and Git are connected to this account
+
+== Reticulum
+
+lxma://7b786ec33b2d8e81477dbb3fe3571acb:16dcb366896ea8f575e7ea09df684375f443dd5ec997edd50e5cac34d5363239f5e2553c94fce8bfc598e0d65de07e66e263efd585e356c4252c4259a0c6b8d9
+
+== Codeberg
+
+https://codeberg.org/omniman
+
+* Backup of my projects, notes, and other files.
+
+https://omniman.codeberg.page/
+
+* Personal Website
