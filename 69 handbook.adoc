@@ -1,3 +1,6 @@
+:toc:
+:toclevels: 4
+
 // ########################################
 == Introduction
 // ########################################
@@ -6,7 +9,7 @@ This is my personal day-to-day survival guide, inspired by the Survival Manual a
 
 Everything written here does not necessarily represent my personal beliefs or opinions. The content is written from a survival perspective. Some advice may seem racist, sexist, homophobic, or otherwise offensive when taken out of context. The intention is to prioritize survival rather than social or political views.
 
-If you find any inaccuracies or have suggestions for improvements, contact me through one of the accounts listed in `contact.adoc`.
+If you find any inaccuracies or have suggestions for improvements, contact me through one of the accounts listed in link:Contact.adoc[contact.adoc] .
 
 // ########################################
 == Schedule
@@ -145,8 +148,8 @@ This is a reference file. The reader is expected to search, learn more, and veri
 * https://libredirect.github.io/ -> Redirects almost every centralized website.
 * https://lucida.to -> Music download.
 * https://github.com/No-Suggest/NoSuggest -> YouTube client.
-** If clients cannot be found for centralized platforms like Reddit, use Firefox + uBlock Origin instead.
-** Many more clients are available through the Meta Service and Books links above.
+
+If clients cannot be found for centralized platforms like Reddit, use Firefox + uBlock Origin instead.Many more clients are available through the Meta Service and Books links above.
 
 // ########################################
 == Best Stack
@@ -252,7 +255,7 @@ https://zillion.chat/
 Phantom Reticulum
 
 // ########################################
-== Other Stack (not complete placeholder)
+== Skills and Technologies (not complete placeholder)
 // ########################################
 
 === Languages
@@ -270,26 +273,24 @@ Phantom Reticulum
 * AsciiDoc -> 1
 * HTML
 
-=== Tools and Technologies
-
-==== Version Control
+=== Version Control
 
 * Git
 * Jujutsu (jj)
 
-==== Operating Systems
+=== Operating Systems
 
 * Linux
 * NixOS
 * Fedora
 * Arch Linux
 
-==== Containers
+=== Containers
 
 * Docker
 * Podman
 
-==== Development Environment
+=== Development Environment
 
 * Termux
 * Toolbox
@@ -300,16 +301,16 @@ Phantom Reticulum
 
 === Milk Soda
 
-**Ingredients**
+==== Ingredients
 
 * Coke, Pepsi, or any black soda
 * Milk, preferably full cream or toned
 
-**Optional**
+==== Optional
 
 * Ice cream
 
-**Preparation**
+==== Preparation
 
 Add milk first, preferably full cream or toned, then slowly add the soda to see it getting mixed. It's so peaceful to watch, like yin and yang.
 
