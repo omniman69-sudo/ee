@@ -242,6 +242,7 @@ Whoogle -> dead
 ==== Utility
 
 * Compass
+* Torch
 
 // ########################################
 == Keeping an Eye On
