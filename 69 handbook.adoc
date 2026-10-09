@@ -78,6 +78,10 @@ No workout on Sunday because people are there and I can't do stuff if someone is
 
 Every day different exercise + walking as usual whenever i want.
 
+* https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment
+** Most open-source fitness apps are too complicated or hard to understand.
+** Use YouTube or an app like this to learn the exercises, then do them yourself.
+
 * Push-ups -> 69
 * Plank -> 69 min.
 * Pull ups -> 69
@@ -186,6 +190,7 @@ Whoogle -> dead
 * XMPP -> 2
 
 * Nostr -> BEST ALL IN 1 PROTOCOL
+** NIPS
 ** Concord
 ** Marmot 
 ** Nostr mail
@@ -203,30 +208,6 @@ Whoogle -> dead
 * SimpleX -> 1
 * Briar
 
-==== Password Managers
-
-* Bitwarden / Vaultwarden -> 1
-* KeePass
-* Aliasvault - AI
-
-==== File Sharing
-
-* BitTorrent
-
-==== Maps
-
-* CoMaps (OpenStreetMap)
-
-==== Food
-
-* OpenFoodFacts
-
-==== Exercise / Fitness
-
-* https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment
-** Most open-source fitness apps are too complicated or hard to understand.
-** Use YouTube or an app like this to learn the exercises, then do them yourself.
-
 ==== Money
 
 * Cashu
@@ -239,13 +220,22 @@ Whoogle -> dead
 * Bitcoin
 * Monero 
 
-==== Utility
+=== Utility
 
 * Compass
 * Torch
-* QR Scanner
+* QR/Barcode Scanner/Maker
 * Camera
 * Remote controller / Kde connect / Bt remote etc...
+* CoMaps (OpenStreetMap) -> Offline Map
+* OpenFoodFacts -> DataBase of Food
+* BitTorrent -> File Sharing
+
+==== Password Managers
+
+* Bitwarden / Vaultwarden -> 1
+* KeePass
+* Aliasvault - AI
 
 // ########################################
 == Keeping an Eye On
@@ -253,6 +243,7 @@ Whoogle -> dead
 
 Freenet
 FIPS.net
+dakodha or dakota network 
 
 https://ghostly.tools/
 https://zillion.chat/
