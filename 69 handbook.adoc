@@ -28,45 +28,45 @@ Push teeth inwards everyday after waking up.
 
 ==== Week 1
 
-* Monday - Bath + Hair Wash
-* Tuesday - Brush + Tea/Soda + Writing
-* Wednesday - Bath
-* Thursday - Brush + Tea/Soda + Writing
-* Friday - Bath + Hair Wash
-* Saturday - Brush + Tea/Soda + Writing
-* Sunday - Rest
+* Monday -> Bath + Hair Wash
+* Tuesday -> Brush + Tea/Soda + Writing
+* Wednesday -> Bath
+* Thursday -> Brush + Tea/Soda + Writing
+* Friday -> Bath + Hair Wash
+* Saturday -> Brush + Tea/Soda + Writing
+* Sunday -> Rest
 
 ==== Week 2
 
-* Monday - Brush + Tea/Soda + Writing
-* Tuesday - Bath + Hair Wash
-* Wednesday - Brush + Tea/Soda + Writing
-* Thursday - Bath
-* Friday - Brush + Tea/Soda + Writing
-* Saturday - Bath + Hair Wash
-* Sunday - Rest
+* Monday -> Brush + Tea/Soda + Writing
+* Tuesday -> Bath + Hair Wash
+* Wednesday -> Brush + Tea/Soda + Writing
+* Thursday -> Bath
+* Friday -> Brush + Tea/Soda + Writing
+* Saturday -> Bath + Hair Wash
+* Sunday -> Rest
 
 === Reverse
 
 ==== Week 1
 
-* Monday - Brush + Tea/Soda + Writing
-* Tuesday - Bath + Hair Wash
-* Wednesday - Brush + Tea/Soda + Writing
-* Thursday - Bath
-* Friday - Brush + Tea/Soda + Writing
-* Saturday - Bath + Hair Wash
-* Sunday - Rest
+* Monday -> Brush + Tea/Soda + Writing
+* Tuesday -> Bath + Hair Wash
+* Wednesday -> Brush + Tea/Soda + Writing
+* Thursday -> Bath
+* Friday -> Brush + Tea/Soda + Writing
+* Saturday -> Bath + Hair Wash
+* Sunday -> Rest
 
 ==== Week 2
 
-* Monday - Bath + Hair Wash
-* Tuesday - Brush + Tea/Soda + Writing
-* Wednesday - Bath
-* Thursday - Brush + Tea/Soda + Writing
-* Friday - Bath + Hair Wash
-* Saturday - Brush + Tea/Soda + Writing
-* Sunday - Rest
+* Monday -> Bath + Hair Wash
+* Tuesday -> Brush + Tea/Soda + Writing
+* Wednesday -> Bath
+* Thursday -> Brush + Tea/Soda + Writing
+* Friday -> Bath + Hair Wash
+* Saturday -> Brush + Tea/Soda + Writing
+* Sunday -> Rest
 
 Use the normal schedule one month, then the reverse schedule the next month.
 
@@ -78,10 +78,10 @@ No workout on Sunday because people are there and I can't do stuff if someone is
 
 Every day different exercise + walking as usual whenever i want.
 
-* Push-ups - 69
-* Plank - 69 min.
-* Pull ups - 69
-* Running - 69 min.
+* Push-ups -> 69
+* Plank -> 69 min.
+* Pull ups -> 69
+* Running -> 69 min.
 
 // ########################################
 == Resources
