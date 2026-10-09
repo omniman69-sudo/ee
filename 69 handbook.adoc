@@ -1,6 +1,6 @@
 :doctype: book
 :toc:
-:toclevels: 4
+:toclevels: 2
 
 // ########################################
 == Introduction
@@ -70,7 +70,7 @@ Push teeth inwards everyday after waking up.
 
 Use the normal schedule one month, then the reverse schedule the next month.
 
-=== Exercise
+=== Exercise (under)
 
 Started from 26 July 2026. Before that, I only walked my whole life.
 
