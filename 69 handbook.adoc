@@ -156,14 +156,6 @@ If clients cannot be found for centralized platforms like Reddit, use Firefox + 
 == Best Stack
 // ########################################
 
-=== Search Engines
-
-* SearXNG
-* LibreY -> 1
-* Websurfx
-
-Whoogle -> dead
-
 === Off-Grid
 
 * Reticulum -> 1
@@ -176,6 +168,14 @@ Whoogle -> dead
 
 === On-Grid / Internet
 
+==== Search Engines
+
+* SearXNG
+* LibreY -> 1
+* Websurfx
+
+Whoogle -> dead
+
 ==== Networks
 
 * I2P -> 1
@@ -186,9 +186,10 @@ Whoogle -> dead
 * XMPP -> 2
 
 * Nostr -> BEST ALL IN 1 PROTOCOL
-** Concord / Armanda
-** Marmot / WhiteNoise
+** Concord
+** Marmot 
 ** Nostr mail
+** Cordn
 
 * AT Protocol
 * ActivityPub
@@ -249,7 +250,6 @@ Whoogle -> dead
 Freenet
 FIPS.net
 
-https://cordn.net/
 https://ghostly.tools/
 https://zillion.chat/
 
