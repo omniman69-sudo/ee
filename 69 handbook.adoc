@@ -243,6 +243,9 @@ Whoogle -> dead
 
 * Compass
 * Torch
+* QR Scanner
+* Camera
+* Remote controller / Kde connect / Bt remote etc...
 
 // ########################################
 == Keeping an Eye On
